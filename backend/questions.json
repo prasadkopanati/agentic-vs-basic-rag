@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Q1 — Net worth ratio (well-capitalized)",
+    "query": "What is the net worth ratio required to be classified as well-capitalized?"
+  },
+  {
+    "label": "Q2 — BSA/AML program elements",
+    "query": "What BSA/AML program elements are credit unions required to maintain?"
+  },
+  {
+    "label": "Q3 — SAR filing triggers and deadline",
+    "query": "What triggers a SAR filing requirement and what is the filing deadline?"
+  },
+  {
+    "label": "Q4 — $500M asset threshold / audit requirements",
+    "query": "What audit requirements change for a credit union that crosses the $500M asset threshold?"
+  },
+  {
+    "label": "Q5 — Third-party vendor management",
+    "query": "What are the NCUA's expectations for third-party vendor management in credit unions?"
+  },
+  {
+    "label": "Q6 — SAR structuring / PEP trap",
+    "query": "One of our members holds a senior government post abroad and has been sending money to the same overseas business three times this month, each payment just below our standard wire review trigger. Our team approves each transfer individually. What distinct compliance categories does this pattern trigger — beyond standard wire transfer procedures — and what would a regulator expect us to have documented for this account?"
+  },
+  {
+    "label": "Q7 — IRR High rating: NEV threshold + formal action conditions",
+    "query": "After receiving a High rating for interest rate risk in our last NCUA examination, our board needs two things answered before our next meeting: (1) What is the specific post-shock net economic value ratio threshold that NCUA's supervisory test uses to classify a credit union as High risk? (2) Does a High IRR classification automatically result in NCUA issuing a formal written supervisory finding or action commitment against us — or does the exam guidance identify specific situations in which no such formal written action from NCUA would be expected, even when the High classification applies?"
+  },
+  {
+    "label": "Q8 — Undercapitalized: mandatory commercial lending restrictions",
+    "query": "We just got off the phone with our regional examiner — our net worth closed at 4.5% last quarter after unexpected loan losses. We know we'll need to submit a restoration plan. But our board's immediate concern is the loan pipeline: we have $8M in approved commercial loans ready to close over the next 60 days. Once we're formally classified at this net worth level, does NCUA regulation require us to pause commercial loan originations, or is that the examiner's discretion? And is there anything that becomes legally mandatory — not just recommended — the moment we fall into this capital tier?"
+  },
+  {
+    "label": "Q9 — HMDA: residential lending reporting obligations",
+    "query": "We've been growing our home equity line of credit portfolio and first-lien residential mortgage originations significantly. We have $340 million in total assets and operate branch offices in two metropolitan statistical areas. Last year we originated $45 million in first-lien home purchase and refinancing transactions. Our LTV limits, collateral valuation standards, appraisal processes, and board risk oversight practices all follow NCUA guidance for institutions at our concentration level. Our compliance officer is preparing for our upcoming NCUA examination and wants to ensure our residential mortgage program is fully compliant. Are there federal obligations specific to our mortgage origination activities — other than what our NCUA examination covers — that our compliance program should address?"
+  },
+  {
+    "label": "Q10 — Commercial RE appraisal: internal assessment vs. 12 CFR 722",
+    "query": "We just originated a $2.8M commercial real estate loan secured by the borrower's warehouse. Our lending officer documented collateral value using an internal property assessment and a recent comparable sales summary from a local realtor. Does this documentation satisfy NCUA's collateral valuation requirements for a commercial loan of this size, or is a different form of valuation required?"
+  },
+  {
+    "label": "Q11 ★ — Three regulatory thresholds: NEV / single-borrower / SAR",
+    "query": "Our exam prep team needs three specific regulatory thresholds confirmed before our NCUA examination next quarter: (a) What is the exact post-shock NEV ratio percentage below which a credit union is classified as 'High risk' under NCUA's 2022 revised NEV Supervisory Test for interest rate risk? (b) Under Part 723, what is the maximum percentage of net worth a credit union may lend to a single commercial borrower when the amount above the standard limit is fully secured by readily marketable collateral — and what qualifies as readily marketable collateral under NCUA's definition? (c) What is the minimum dollar amount of suspected money laundering activity that triggers mandatory SAR filing when a suspect can be identified, and how many calendar days after the date of detection does the credit union have to file the SAR?"
+  },
+  {
+    "label": "Q12 ★ — CRE loan at 21% NW: Part 723 exception, Part 722 appraisal, concentration",
+    "query": "We are preparing to approve a commercial real estate loan totaling $3.2M to a single borrower. Our net worth is $15M, so this loan would represent approximately 21% of net worth — above the standard single-borrower limit. Our chief lending officer believes the borrower's warehouse property secures the loan adequately. Please address three questions: (a) Under Part 723, what specific conditions must be satisfied to approve a commercial loan above the standard 15% single-borrower limit, and does commercial real estate — such as a warehouse — qualify as 'readily marketable collateral' for purposes of that exception? (b) What appraisal standards must be met for commercial real estate collateral under NCUA Part 722, and is an internal property assessment or a realtor comparable-sales summary sufficient? (c) Our commercial real estate portfolio now exceeds 100% of net worth. What board-approved documentation does NCUA require when concentrations reach this level?"
+  }
+]

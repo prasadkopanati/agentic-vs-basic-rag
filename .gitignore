@@ -1,0 +1,76 @@
+# Dependencies
+node_modules/
+
+# Environment files (keep .env.example, ignore actual .env and local overrides)
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# ChromaDB vector stores (reproducible via python ingest.py)
+chroma_db/
+chroma_store/
+
+# uv-managed Python version pin (machine-specific)
+.python-version
+
+# Data — generated corpus (reproducible via scripts/fetch_ncua_data.py)
+sample_data/ncua_letters/
+
+# Data — binary and downloaded files
+*.db
+sample_data/*.csv
+sample_data/*.pdf
+
+# Generated artifacts
+artifacts/compiled/
+artifacts/failures/
+artifacts/logs/
+artifacts/output/
+artifacts/samples/
+# Binary/rendered outputs — reproducible via generate_carousel.py; use Drive/S3 for sharing
+artifacts/screenshots/
+artifacts/*.pdf
+artifacts/*.pptx
+artifacts/*.html
+tasks.json
+
+# Session-specific task tracking (project TODO lives in docs/TODO.md)
+tasks/
+
+# Claude Code local settings (machine-specific tool permissions)
+.claude/
+
+# LinkedIn OAuth token (contains access + refresh tokens — never commit)
+.linkedin_token.json
+
+# Git worktrees for isolation
+worktrees/
+
+# Working repository
+repo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+*.swp
+*.swo
+*~
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Logs
+*.log
+npm-debug.log*

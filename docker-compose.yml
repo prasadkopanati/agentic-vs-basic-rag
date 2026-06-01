@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    env_file: .env
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./artifacts:/app/artifacts
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        API_URL: http://backend:8000
+    ports:
+      - "3000:3000"
+    environment:
+      API_URL: http://backend:8000
+    depends_on:
+      - backend
+    restart: unless-stopped

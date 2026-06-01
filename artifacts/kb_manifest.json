@@ -1,0 +1,2397 @@
+{
+  "2025-15341.pdf": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [
+      "Violations of Small Business Act section 7(a) (15 U.S.C. 636) trigger reinstatement requirements",
+      "Violations include section 5 of Federal Trade Commission Act (15 U.S.C. 45)",
+      "Violations include section 1031 of Consumer Financial Protection Act (12 U.S.C. 5531)"
+    ],
+    "timeframes": [
+      "Federal banking regulators must remove reputation risk concepts within 180 days",
+      "SBA shall give notice to financial institutions within 60 days of order",
+      "Financial institutions have 120 days to identify and reinstate previous accounts",
+      "120 days to identify and reinstate previous clients denied service through unlawful debanking",
+      "120 days to identify potential clients denied financial services through politicized debanking",
+      "120 days to identify clients denied payment processing through unlawful debanking actions",
+      "180 days for Secretary of Treasury to scrutinize politicized or unlawful debanking",
+      "Federal banking regulators must conduct review within 120 days of order date",
+      "Federal banking regulators must review supervisory and complaint data within 180 days"
+    ],
+    "key_terms": [
+      "Equal Credit Opportunity Act citation: 15 U.S.C. 1691 et seq.",
+      "Politicized debanking defined: adversely restricting access based on political or religious beliefs",
+      "Review identifies institutions with past or current debanking policies",
+      "Violations include Equal Credit Opportunity Act compliance requirements (15 U.S.C. 1691, 1691e(g))"
+    ]
+  },
+  "2025-cybersecurity-and-credit-union-system-resilience-report-6787be.md": {
+    "topics": [
+      "Cybersecurity"
+    ],
+    "thresholds": [
+      "Credit union transaction activity exceeded $86 trillion in 2024"
+    ],
+    "citations": [
+      "NCUA guidance available under Regulation & Supervision section on NCUA website"
+    ],
+    "timeframes": [
+      "Credit unions must notify NCUA within 72 hours of reasonably believing a reportable cyber incident occurred",
+      "NCUA maintained FISMA Maturity Level 4 'Managed and Measurable' in fiscal year 2024",
+      "OIG conducted independent financial statement audits for years ended 2023 and 2024"
+    ],
+    "key_terms": [
+      "Consolidated Appropriations Act, 2021 (P.L. 116-260) requires cybersecurity reporting",
+      "NCUA complies with Federal Information Security Modernization Act of 2014 (FISMA)",
+      "NCUA implements NIST Risk Management Framework and Special Publication 800-53",
+      "NCUA has minimal tolerance for IT system risk",
+      "539 cyber incidents reported May 1, 2024 through April 30, 2025",
+      "Cyber Incident Notification Rule approved by NCUA Board in February 2023",
+      "ISE program focuses on NCUA regulations 12 C.F.R. parts 748 and 749",
+      "ISE procedures reference NIST, Center for Internet Security, and CISA standards",
+      "ACET maturity assessment is voluntary tool provided by NCUA for credit unions",
+      "NCUA issued cybersecurity alerts between July 2024 and May 2025",
+      "CVE-2024-47575: Critical FortiManager vulnerability alert issued 11/7/24",
+      "Ransomware attack attributed to malvertising technique, Board engagement letter 10/21/2024",
+      "ATM skimming alert issued North Canton, Ohio area 7/25/24",
+      "NCUA requires mandatory privacy and security awareness training at least annually for all employees and contractors",
+      "Staff with privileged access must complete mandatory role-based training on information security and cybersecurity"
+    ]
+  },
+  "5300-call-report-faqs-600dba.md": {
+    "topics": [
+      "CTR",
+      "Capital",
+      "Commercial_Lending",
+      "PCA"
+    ],
+    "thresholds": [
+      "CECL adoption required when credit union reaches $10 million in assets",
+      "GAAP required for call reporting for credit unions $10 million or greater",
+      "Simplified CECL Tool developed for credit unions under $100 million in assets",
+      "Commercial loan threshold: $50,000 aggregate outstanding balances plus unfunded commitments",
+      "Investments with original maturities of 3 months or less reported in account AS0009",
+      "Time deposits with 3-month or less maturities reported in account AS0007",
+      "Federal credit unions with $10,000,000 or less in assets exempt from CECL compliance",
+      "Operating Lease expense recorded to Account 260 for office operations",
+      "Financing Lease depreciation recorded to Account 260 for office operations",
+      "Account 041B delinquent loans included in delinquent loan ratio",
+      "Minimum six months sustained repayment performance required for restoration",
+      "Amounts in Account 550F or 551F do not affect net charge-off ratio",
+      "Account 816B5: Open-end loan forms report difference between approved limits and outstanding balances as unfunded commitments",
+      "Participation agreement minimum requirements outlined in \u00a7701.22 of NCUA regulations",
+      "Single loan secured by multiple 1- to 4-family properties: report as MBL if outstanding balances plus unfunded commitments \u2265 $50,000"
+    ],
+    "citations": [
+      "Part 749 NCUA regulations require credit unions keep 5300 Call Report copies permanently",
+      "12 CFR 741.6(b) governs CECL adoption measurement date requirements",
+      "Overdrawn non-commercial share accounts reported in Schedule A, Section 1, line 4",
+      "Overdrawn commercial share accounts reported in Schedule A, Section 1, line 13",
+      "457F investments compliance determined under part 703 subpart A and FCU Act \u00a7\u00a71757(7), (8), (15)",
+      "Non-negotiable certificates of deposit reported in Cash section Account AS0007",
+      "FCU Act \u00a7107(6) authorizes low income designated FCUs to receive shares from nonmembers",
+      "Schedule A Section 1 lines 9-11 must tie to Schedule A Section 7",
+      "Schedule A Section 1 Lines 9-11 must tie to Schedule A Section 7",
+      "Delinquent commercial loans reported in Schedule A, Section 2",
+      "Participation Loans Purchased reported under 12 CFR \u00a7701.22",
+      "Whole or Partial Loans Purchased reported under 12 CFR \u00a7701.23",
+      "NCUA regulation Part 741, Appendix B governs non-accrual loan classification",
+      "Participation loan charge-offs reported in Schedule A, Section 3 based on securing collateral",
+      "Participation Loans Purchased reported under 12 CFR 701.22"
+    ],
+    "timeframes": [
+      "CECL implementation required for fiscal year ends after December 15, 2022",
+      "Credit union with September 30 fiscal year-end implements CECL October 1, 2023",
+      "Loan enters non-accrual status after 90 days past due",
+      "Non-accrual loan restored to accrual when past due less than 90 days",
+      "Account RL0050: Real estate loans maturing, refinancing, or repricing within five years",
+      "Account CM0099 reports real estate loans maturing within next five years"
+    ],
+    "key_terms": [
+      "5300 Call Reports due by 11:59:59 p.m. Eastern time on 30th of January, April, July, October",
+      "NCUA may assess civil money penalties for late 5300 Call Report submission",
+      "Profile must be certified before submitting corrections to 5300 Call Report",
+      "Account codes assigned since March 2018 have 6 alphanumeric characters",
+      "Commercial loan definition in Schedule I defined in 702.2",
+      "Commercial loan definition for other schedules defined in 723.2",
+      "Measurement date based on quarter-end date used to file Call Report",
+      "Cash on Hand (Account 730A) cannot have negative balance",
+      "Loans Held for Sale (Account 003) may include non-real estate loans",
+      "Overdraft protection advances reported in Account 397",
+      "Overdraft protection advances reported under Account 397: All Other Unsecured Loans/Lines of Credit",
+      "Joint Guidance on Overdraft Protection Programs: Letter to Credit Unions 05-CU-03",
+      "457F investments reported in Schedule B by security type with valuation information",
+      "Regular reserves reported in Undivided Earnings account 940",
+      "CUSO non-controlling equity investment reported in Account 996 on Call Report page 3"
+    ]
+  },
+  "administration-htm-1f6935.md": {
+    "topics": [
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "NCUA regulation \u00a7 723.8 establishes statutory member business loan cap limits",
+      "Loan portfolio monitoring includes compliance with aggregate loan limit to one borrower"
+    ],
+    "citations": [],
+    "timeframes": [
+      "UCC filings require renewal every five years to maintain lien position",
+      "Internal loan reviews must be completed no less than once per year"
+    ],
+    "key_terms": [
+      "Credit analysis and approval documents required before loan closing",
+      "Loan agreements must include financial and reporting covenants per credit approval",
+      "Loan documents must comply with applicable state and federal regulations",
+      "Credit unions responsible for enforceable obligations under state and federal law",
+      "Credit union policies must govern loan review objectives, requirements, roles, and responsibilities",
+      "Review process requires documented site visits and borrower conversations on material information",
+      "Collateral values must be updated and lien positions verified during reviews",
+      "Independent loan review scope includes impairment analysis under ASC 310-10-35 and ASC 450",
+      "NCUA regulation 723 governs Member Business Loans and Commercial Lending",
+      "ASC 310-10-35 and ASC 450 provide accounting standards guidance",
+      "OCC Comptroller's Handbook on Loan Portfolio Management issued April 1998",
+      "Guidance last updated October 14, 2021"
+    ]
+  },
+  "ag20190718item4b-733e16.md": {
+    "topics": [
+      "Appraisals",
+      "Capital",
+      "Commercial_Lending",
+      "IRR"
+    ],
+    "thresholds": [
+      "Commercial real estate appraisal threshold increased from $250,000 to $1,000,000",
+      "QBL appraisal exemption threshold: $1 million or less transaction value",
+      "NCUA real estate transaction appraisal exemption: $250,000 or less",
+      "NCUA established appraisal thresholds in 1995 and 2001 rulemakings",
+      "Commercial real estate appraisal threshold increased from $250,000 to $400,000",
+      "Commercial real estate appraisal threshold increased to $500,000 for non-QBLs",
+      "EGRPRA process recommended increasing commercial appraisal threshold to $400,000",
+      "EGRRCP Act exempts rural real-estate transactions valued below $400,000 from appraisal requirements",
+      "NCUA proposed rule increases commercial real estate appraisal threshold from $250,000 to $1,000,000",
+      "Current residential real estate appraisal threshold: $250,000",
+      "Current threshold for residential mortgage loans: $250,000",
+      "Other banking agencies proposed increasing residential threshold to $400,000",
+      "Board considering increase of appraisal exemption threshold from $250,000 to $400,000",
+      "Congress authorized NCUA to establish appraisal threshold below which state-certified appraiser not required",
+      "Dodd-Frank Act requires CFPB concurrence that threshold provides reasonable consumer protection for 1-4 unit residences"
+    ],
+    "citations": [
+      "12 CFR Part 722 governs NCUA real estate appraisals",
+      "Title XI appraisal rules codified: 12 CFR 34.42(n), 223.62(n), 323.2(n)",
+      "OCC appraisal regulations: 12 CFR 34.43(a)(1) and (5)",
+      "Fed appraisal regulations: 12 CFR 225.63(a)(1) and (5)",
+      "FDIC appraisal regulations: 12 CFR 323.3(a)(1) and (5)",
+      "Transaction value defined in 12 CFR 722.21 for loans and real property",
+      "12 CFR 1002.14 governs appraisal disclosure for first lien dwelling-secured credit",
+      "NCUA Title XI appraisal regulations apply to federally insured credit unions per 12 CFR 722.1(b)",
+      "12 U.S.C. \u00a7 3341(b) governs real estate appraisal requirements",
+      "Final rule amends NCUA part 722\u2013Appraisals regulations",
+      "\u00a7722.2(d) defines complex as transaction with atypical property, ownership form, or market conditions",
+      "Presumption of non-complexity moved from \u00a7722.3(b)(3) to \u00a7722.2 definition",
+      "Real estate and real property terms are interchangeable under \u00a7722.2(g)",
+      "Real estate-related financial transaction definition amended under \u00a7722.2(h)",
+      "\u00a7722.2(h) amended for consistency: 'real property' replaced with 'real estate'"
+    ],
+    "timeframes": [
+      "Final rule effective 90 days after Federal Register publication",
+      "Consumer receives appraisal copy at least three business days before transaction closing",
+      "Credit union must contact not fewer than three state-certified appraisers within five business days",
+      "Contact with appraisers required not later than three days after Closing Disclosure given to consumer"
+    ],
+    "key_terms": [
+      "Rule implements Title XI of Financial Institutions Reform, Recovery, and Enforcement Act of 1989",
+      "Exempts federally related transactions involving real estate in rural areas",
+      "Federal financial institutions regulatory agencies: Fed, FDIC, OCC, NCUA",
+      "Comment period for commercial appraisal NPR closed September 29, 2017",
+      "Final rule issued in early 2018 per 12 U.S.C. 3311",
+      "EGRRCP Act signed into law May 24, 2018; Pub. L. 115-174",
+      "NCUA proposed rule published October 3, 2018; comment period closed December 3, 2018",
+      "Commercial defined as real estate transaction not secured by 1-to-4 family residential property",
+      "Title XI appraisal regulations amended through Dodd-Frank Act",
+      "Federal agencies require certified or licensed appraiser for residential mortgages regardless of loan amount",
+      "Higher-risk mortgages: annual percentage rate exceeds average prime offer rate by specified percentage",
+      "Title XI appraisal requirement applies to residential mortgage transactions",
+      "Dodd-Frank Act, Pub. L. 111-203, Title XIV, sec. 1473(a), 12 U.S.C. 3341(b)",
+      "Appraisal requirements for higher-priced mortgage loans: 78 FR 78520 (Dec. 26, 2013)",
+      "Other banking agencies' proposal issued December 7, 2018"
+    ]
+  },
+  "agencies-issue-frequently-asked-questions-suspicious-activity-reporting-requirem-473219.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "agencies-issue-statement-bank-secrecy-act-due-diligence-requirements-customers-w-1642e9.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "Bank Secrecy Act due diligence requirements for PEPs must be commensurate with risks posed",
+      "PEP term refers to foreign individuals with prominent public functions and their family members",
+      "PEP relationships present varying money-laundering risk levels based on specific customer circumstances"
+    ]
+  },
+  "agencies-release-fact-sheet-clarify-bank-secrecy-act-due-diligence-requirements--305057.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "agencies-request-comment-anti-money-laundering-countering-financing-terrorism-pr-2f8bf8.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [
+      "Comments on proposed rule due 60 days after Federal Register publication"
+    ],
+    "key_terms": [
+      "Bank Secrecy Act (BSA) imposes AML/CFT requirements on banks and credit unions",
+      "Anti-Money Laundering Act of 2020 (AML Act) directed FinCEN and Agencies to modernize AML/CFT framework",
+      "Proposed rule amends FDIC, OCC, and NCUA AML/CFT requirements for supervised institutions",
+      "Amendments align agency AML/CFT rules with FinCEN's concurrently proposed changes",
+      "AML/CFT program must be risk-based per AML Act provision",
+      "Designated AML/CFT officer must be located in U.S.",
+      "Only significant or systemic failures warrant AML/CFT enforcement action"
+    ]
+  },
+  "aggregatelimit-htm-3a3f32.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "Aggregate MBL limit: lesser of 1.75x actual net worth or 1.75x minimum net worth per \u00a7723.8(a)",
+      "NCUA regulation \u00a7 723.8 identifies credit unions exempt from aggregate MBL limit",
+      "LID credit unions and CDFI Fund participants are statutorily exempt from MBL limits",
+      "Non-member commercial loans do not count toward aggregate MBL limit"
+    ],
+    "citations": [
+      "Credit unions chartered for business loans are exempt under \u00a7 723.8",
+      "Loans secured by household vehicles defined in NCUA \u00a7 723.2 are classified as MBLs"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Net MBL balance includes outstanding loan balance plus unfunded commitments",
+      "Loans secured by member primary residence excluded from net MBL calculation",
+      "Federal/state government insured or guaranteed loans excluded from net MBL balance",
+      "CUMAA enactment date of 1998 determines historical MBL exemption eligibility",
+      "Vehicle collateral value must exceed 50 percent of loan principal amount for substantial security"
+    ]
+  },
+  "answers-faqs-regarding-suspicious-activi-982460.md": {
+    "topics": [
+      "BSA",
+      "SAR"
+    ],
+    "thresholds": [
+      "CSV file attachment limited to one megabyte of data per SAR",
+      "Do not file multiple SARs to continue narrative beyond character limit",
+      "CSV attachment to SAR limited to one megabyte maximum",
+      "SAR narrative maximum: 20,000 characters"
+    ],
+    "citations": [
+      "SAR requirements apply to banks under 31 CFR \u00a7 1020.320",
+      "Anti-Money Laundering Act of 2020: \u00a7 6306 requires Treasury Secretary guidance on keep open request elements",
+      "Anti-Money Laundering Act of 2020 codified in \u00a7\u00a7 6001\u20136511 of Pub. L. No. 116-283",
+      "SAR regulations cited: 12 CFR 208.62, 211.5(k), 211.24(f), 225.4(f), 353, 748.1(c), 21.11, 163.180, 31 CFR Chapter X",
+      "CDD regulations: 31 CFR \u00a7\u00a7 1020.210, 1021.210, 1022.210, 1023.210, 1024.210, 1025.210, 1026.210, 1027.210, 1028.210, 1029.210, 1030.210",
+      "Regulatory citations: 31 CFR \u00a7 1010.430, 31 CFR \u00a7 1010.320",
+      "Regulatory citations: 31 CFR Chapter X subpart C for financial institutions"
+    ],
+    "timeframes": [
+      "Supporting documentation retention requirement: five years from report date"
+    ],
+    "key_terms": [
+      "Financial institutions must comply with all BSA requirements including ongoing risk-based monitoring",
+      "Financial institutions must file SARs and continuing activity SARs consistent with FinCEN guidance",
+      "Account closure decisions should follow institution's own policies, procedures, and processes",
+      "SAR narrative must be clear, complete, and concise description of suspicious activity",
+      "Federal law enforcement requests must be issued by supervisory agent or DOJ attorney",
+      "State/local law enforcement requests require supervisor or prosecutor office attorney signature",
+      "Financial institutions must file SARs despite law enforcement account maintenance requests",
+      "CDD regulations do not categorically require media searches or particular screenings"
+    ]
+  },
+  "appraisals-home-equity-loans-87cd92.md": {
+    "topics": [
+      "Appraisals"
+    ],
+    "thresholds": [
+      "Home equity loans under $100,000 subject to appraisal requirements per 12 C.F.R. Part 722",
+      "Real estate loan exceeding $100,000 requires appraisal per 12 C.F.R. \u00a7722.3(a)(1)-(8)",
+      "Loan amount $100,000 or less requires written estimate per 12 C.F.R. \u00a7722.3(d)"
+    ],
+    "citations": [
+      "NCUA appraisal regulation: 12 C.F.R. Part 722 governs when appraisals required",
+      "Credit score cannot reflect applicant's race, sex, or prohibited factors under 15 U.S.C. \u00a71691"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Credit unions may use tax assessments and homeowner's insurance to estimate property value"
+    ]
+  },
+  "board-director-engagement-cybersecurity--6e199f.md": {
+    "topics": [],
+    "thresholds": [
+      "Backup systems should be tested regularly to ensure quick, effective data restoration"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Federally insured credit union must report cyber incident to NCUA within 72 hours",
+      "NCUA regulations require reporting as soon as possible, no later than 72 hours"
+    ],
+    "key_terms": [
+      "NCUA cyber incident notification rule effective date: September 1, 2023",
+      "Federally insured credit unions reported 1,072 cyber incidents September 1, 2023 through August 31, 2024",
+      "Seven out of ten cyber incident reports involved third-party vendor use or involvement"
+    ]
+  },
+  "bsa-enforcement-policy-ec5638.md": {
+    "topics": [
+      "BSA",
+      "CTR",
+      "SAR"
+    ],
+    "thresholds": [
+      "SAR required for criminal violations aggregating $5,000 or more when suspect identified",
+      "SAR required for criminal violations aggregating $25,000 or more regardless of suspects",
+      "SAR required for suspicious transactions of $5,000 or more involving money laundering or BSA violations"
+    ],
+    "citations": [
+      "Mandatory cease and desist orders governed by FDIA section 8(s) and FCUA section 206(q)",
+      "BSA/AML compliance program required under FDIA section 8(s) and FCUA section 206(q)",
+      "Agencies assess civil money penalties under 12 U.S.C. \u00a7\u00a7 1786(k)(2) and 1818(i)(2)",
+      "Institution defined in 31 C.F.R. \u00a7 1010.100(d) includes banks and credit unions",
+      "BSA/AML compliance considered under Bank Merger Act 12 U.S.C. \u00a7 1828(c)(11)",
+      "BSA/AML compliance considered under Bank Holding Company Act 12 U.S.C. \u00a7 1842(c)(6)",
+      "OCC BSA/AML regulations: 12 C.F.R. \u00a7 21.21",
+      "Federal Reserve BSA/AML regulations: 12 C.F.R. \u00a7 208.63",
+      "FDIC BSA/AML regulations: 12 C.F.R. \u00a7 326.8(c)",
+      "NCUA BSA/AML regulations: 12 C.F.R. \u00a7 748.2",
+      "Treasury Department AML program requirement: 31 U.S.C. \u00a7 5318(h)",
+      "31 C.F.R. \u00a7 1020.210(b)(5) governs BSA/AML compliance requirements",
+      "12 C.F.R. \u00a7 748.1(c) applies NCUA BSA/AML compliance standards",
+      "31 C.F.R. \u00a7 1020.320 establishes Treasury Department BSA requirements",
+      "31 C.F.R. Part 1010 governs Bank Secrecy Act and anti-money laundering compliance"
+    ],
+    "timeframes": [
+      "SAR must be filed within 30 days of detecting reportable facts",
+      "SAR filing deadline extends to 60 days if no subject identified"
+    ],
+    "key_terms": [
+      "Agencies: Federal Reserve, FDIC, NCUA, OCC enforce BSA/AML compliance requirements",
+      "Mandatory action under sections 8(s)(3) and 206(q)(3)",
+      "Enforcement action tailored to institution-specific deficiencies identified during supervision",
+      "Agencies must examine institution BSA/AML compliance program during examinations",
+      "Agencies issue cease and desist order if institution fails to maintain BSA/AML program",
+      "BSA/AML program must include internal controls for ongoing BSA compliance",
+      "BSA/AML program must include independent testing for BSA/AML compliance",
+      "BSA/AML compliance program must include Customer Identification Program with risk-based procedures",
+      "BSA/AML program requires ongoing customer due diligence per Treasury Department regulations",
+      "Program must include suspicious transaction identification and reporting procedures",
+      "BSA/AML program must address beneficial ownership and currency transaction reporting requirements",
+      "Sections 8(s) and 206(q) require Agency examination of institution's BSA/AML compliance program",
+      "Examination reports must describe any problems with BSA/AML compliance program",
+      "Deficiencies must be identified in examination report or written document to apply",
+      "Cease and desist orders issued under sections 8(s)(3) and 206(q)(3) for BSA/AML noncompliance"
+    ]
+  },
+  "bsalanding-htm-79c854.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [
+      "\u00a7 748.2(b)(1): FICU compliance program requires written policy approved by board",
+      "\u00a7 748.2(c): Compliance program must establish internal controls and independent testing",
+      "\u00a7 748.2(c): FICU must designate individual responsible for day-to-day compliance monitoring"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "FICU AML/CFT program compliance reviewed during every FICU examination per NCUA"
+    ]
+  },
+  "bsapoliciesprocedures-htm-e9861c.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [
+      "Internal controls required under NCUA regulation \u00a7 748.2(c)(1)",
+      "Independent testing required under NCUA regulation \u00a7 748.2(c)(2)",
+      "Responsible individual required under NCUA regulation \u00a7 748.2(c)(3)",
+      "Training required under NCUA regulation \u00a7 748.2(c)(4)",
+      "CIP required under NCUA regulation \u00a7 748.2(b)(2)",
+      "CDD required under FinCEN regulation \u00a7 1020.210(a)(2)(v)"
+    ],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "cdrlf-congressional-report-2024.pdf": {
+    "topics": [
+      "CTR",
+      "Cybersecurity"
+    ],
+    "thresholds": [
+      "Congress appropriated approximately $3.5 million for 2024 CDRLF program",
+      "NCUA received 271 grant applications totaling more than $8.3 million in 2024",
+      "NCUA awarded approximately $4.20 for every $10 requested by applicants",
+      "Underserved Outreach: 26 grants totaling $1,255,087 in 2024",
+      "Digital Services and Cybersecurity: 66 grants totaling $629,200 in 2024",
+      "MDI Capacity Building: 26 grants totaling $1,154,500 in 2024",
+      "Training: 11 grants totaling $52,500 in 2024",
+      "Consumer Financial Protection: 2 grants totaling $20,000 in 2024",
+      "Impact Through Innovation Pilot: 4 awards totaling $400,000 in 2024",
+      "Low-income member: family income 80% or less than median family income",
+      "Approximately 72 percent of eligible credit unions under $250 million in assets",
+      "Congress appropriated more than $34 million for CDRLF technical assistance grants since 2001",
+      "Urgent need grants available for credit unions in first five years of operations",
+      "CDRLF received approximately $13.4 million in total appropriations between 1979 and 2005",
+      "CDRLF had approximately $3.88 million in outstanding loans as of December 31, 2024"
+    ],
+    "citations": [
+      "CDRLF created by Congress in 1979 under Pub. L. No. 96-123, \u00a7 101(g)",
+      "Regulatory authority codified at 42 U.S.C. \u00a7 2981 and 12 C.F.R. \u00a7\u00a7 701.34, 705.2",
+      "Minority depository institution defined under 12 U.S.C. 1463 note and Dodd-Frank \u00a7367"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "NCUA provided CDRLF grants and loans since 1990 to low-income-designated credit unions",
+      "NCUA provided awards to about half of CDRLF grant applicants in 2024",
+      "NCUA began making CDRLF awards to participating credit unions in 1990",
+      "Low-income credit union: majority membership qualifies as low-income members",
+      "Community Development Credit Union Revolving Loan Fund established under Economic Opportunity Act of 1964",
+      "Program regulations codified at 45 C.F.R. pt. 1076 as of November 28, 1983",
+      "2,425 federally insured, low-income-designated credit unions as of Q4 2024",
+      "MDI certification requires majority of members, board, and community from eligible minority groups",
+      "CDRLF loan program has experienced zero loan defaults since inception",
+      "Urgent Need grants funded by interest from credit union CDRLF loan payments",
+      "2024 CDRLF awarded 131 technical assistance grants and 4 pilot initiative grants",
+      "11 awards addressed emergencies; 3 awards made to newly chartered credit unions",
+      "Community marketing strategy drove 86-percent increase in credit union membership"
+    ]
+  },
+  "classification-member-business-loans-cff48e.md": {
+    "topics": [
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "Member business loan threshold: $50,000 for classification requirement",
+      "Closed-end MBL below $50,000 no longer classified as MBL",
+      "Aggregate MBL balance determines if subsequent loans exceed $50,000 threshold",
+      "Credit union not required to count MBL toward statutory limit when below $50,000",
+      "MBL reporting threshold: $50,000 aggregate business purpose loans to member",
+      "Single closed-end MBL below $50,000 no longer classified as MBL",
+      "FICU need not count paid-down MBL toward statutory MBL limit"
+    ],
+    "citations": [
+      "Regulatory citation: 12 C.F.R. \u00a7723.1"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Guidance source: 68 FR 56537, 56545 (October 1, 2003)"
+    ]
+  },
+  "collateral-htm-3ed59b.md": {
+    "topics": [
+      "Appraisals",
+      "Capital",
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "LTV ratio: aggregate borrowed sums secured by collateral divided by current collateral value",
+      "Credit unions should consider lower LTV ratio for dynamic assets with volatile values",
+      "NCUA regulation \u00a7 723.4(f) requires LTV ratio limits and collateral valuation methodology",
+      "LTV limits must be established based on internal risk analysis and industry standards",
+      "Commercial real estate transactions \u2265$1 million require state-certified appraiser per NCUA part 722",
+      "Commercial real estate transactions <$1 million require written market value estimates unless exempt",
+      "Commercial real estate transactions $1 million or greater require appraisals",
+      "Commercial real estate transactions $1 million+ require appraisals per NCUA \u00a7 722.4",
+      "Commercial real estate transactions below $1 million require evaluations per NCUA Letter 10-CU-23",
+      "Raw land LTV ratio guideline: 65%",
+      "Construction LTV ratio guideline: 80%",
+      "Improved property LTV ratio guideline: 85%",
+      "LTV ratio calculation: lesser of acquisition cost plus improvements or appraised value",
+      "Borrowing base limits loan balance to percentage of collateral value",
+      "Portfolio limits measured in terms of credit union net worth"
+    ],
+    "citations": [
+      "NCUA regulation \u00a7 723.5 governs collateral and security requirements",
+      "Appraisals must conform to USPAP standards per NCUA \u00a7 722.4",
+      "Appraisals must use market value definition in NCUA \u00a7 722.2",
+      "Appraisers must be state licensed or certified per NCUA \u00a7 722.4",
+      "Evaluator must meet criteria under \u00a7 722.3(d)(2)",
+      "Unsecured loans tracked per NCUA regulation \u00a7 723.4"
+    ],
+    "timeframes": [
+      "Clean-up period: 30 to 60 days following seasonal activity with zero loan balance required"
+    ],
+    "key_terms": [
+      "Credit unions must require sufficient collateral to protect against commercial lending risk",
+      "Collateral is not the primary source of repayment for commercial loans",
+      "Construction/development loan collateral value: lesser of cost to complete or prospective market value",
+      "Loan amortization should reflect anticipated useful life of collateral based on type and expected use",
+      "Policies must address environmental due diligence levels for each collateral type",
+      "Credit unions must establish enforceable and perfected lien positions for collateral",
+      "Commercial real estate defined as real estate transaction not secured by single 1-4 family residence",
+      "Existing extensions of credit exempt if no new monies advanced except closing costs",
+      "Real estate leases exempt unless economically equivalent to purchase or sale",
+      "Loan sales/interests exempt if met regulation requirements at origination",
+      "Evaluator must be independent of loan production and collection processes",
+      "Evaluator must have no financial interest in property or transaction",
+      "Working capital loans secured by volatile collateral require close monitoring",
+      "Advance rate: percentage credit union lends against eligible collateral value",
+      "Credit unions must track and monitor loans with LTV policy exceptions"
+    ]
+  },
+  "commloanpolicy-htm-bd5325.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "NCUA \u00a7 723.4 requires commercial loan policy addressing types, trade area, concentration limits",
+      "Portfolio concentration limits must be set as percentage of net worth for all commercial loan types",
+      "Board must establish concentration risk policy with limits commensurate with net worth levels",
+      "Credit union must set limits for unsecured commercial loans and loans without personal guarantee",
+      "Single-borrower limit: 15% of net worth or $100,000, whichever is greater",
+      "Additional 10% of net worth allowed if fully secured with perfected security interest",
+      "Single obligor exposure threshold: 15% of capital without readily marketable collateral",
+      "Maximum single obligor exposure: 25% when fully secured with readily marketable collateral",
+      "Amount above 15% must be secured with true readily marketable collateral",
+      "Underwriting standards must include LTV ratio limits and personal guarantees of principals"
+    ],
+    "citations": [
+      "NCUA regulations \u00a7\u00a7723.3 and 723.4 apply to federally insured credit unions engaged in commercial lending",
+      "Commercial loan maturity cannot exceed 15 years per Section 107(5) of the Act",
+      "Prepayment penalties prohibited on commercial loans under Section 107(5) of the Act",
+      "Real estate valuation methods must comply with NCUA part 722 regulations"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Commercial loan policy must be board-approved and reviewed at least once annually",
+      "Credit unions must establish procedures for ongoing control, measurement, and management of commercial lending activities",
+      "FISCUs may have state law exceptions to maturity and prepayment penalty restrictions",
+      "Readily marketable collateral must be liquid, saleable, actively traded in functioning marketplace",
+      "Limit applies at time loan is granted",
+      "Credit unions must require review quality or audit quality financial statements for complex borrowing relationships",
+      "Credit unions must review commercial relationships at least annually"
+    ]
+  },
+  "concentration-risk-2f8419.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "Real estate loans comprised 54% of total credit union loans as of December 31, 2009",
+      "Fixed rate first mortgage loans increased 55% since 2005",
+      "Member business loans totaled $35 billion as of December 31, 2009",
+      "Credit union loan participations outstanding totaled $12.4 billion as of December 31, 2009",
+      "Credit union investments in mortgage-related securities totaled $58.7 billion as of December 31, 2009",
+      "Larger loan portfolios require at least quarterly concentration risk reporting",
+      "Management reporting frequency must be commensurate with concentration type and size",
+      "Concentrations exceeding 100 percent of net worth require careful monitoring and board documentation",
+      "Board must establish concentration risk policy with limits commensurate to net worth levels",
+      "Risk limits must correlate to overall growth objectives, financial targets, and net worth plan"
+    ],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "customerduediligence-htm-605602.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [
+      "FinCEN regulation \u00a7 1020.210(a)(2)(v) requires credit unions to conduct ongoing CDD",
+      "FinCEN regulation \u00a7 1020.210(a)(2)(v)(A) requires credit unions to develop member risk profiles",
+      "FinCEN regulation \u00a7 1020.210(a)(2)(v)(B) requires ongoing CDD policies and procedures"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Credit unions must monitor transactions and maintain updated beneficial owner information",
+      "Credit unions must maintain and update member information on ongoing basis",
+      "Risk-based CDD policies must align with ML/TF risk profile",
+      "Credit unions must define higher risk accounts in policies and procedures",
+      "Higher risk accounts require more frequent review based on risk rating",
+      "CDD program effectiveness determines criticism of individual customer risk decisions",
+      "FinCEN guidance: FIN-2016-G003 and FIN-2018-G001 address CDD requirements",
+      "Higher risk accounts include MRBs, MSBs, PEPs, and cash intensive businesses",
+      "Credit unions must evaluate and monitor higher risk accounts at opening and ongoing basis",
+      "Higher risk rating requires more frequent account review by credit union"
+    ]
+  },
+  "cybersecurity-and-credit-union-system-resilience-annual-report-congress-2-b3c248.md": {
+    "topics": [
+      "Cybersecurity"
+    ],
+    "thresholds": [
+      "NCUA complies with CISA binding operational directives and emergency directives",
+      "2023 grant round: 316 applications totaling more than $10.3 million received",
+      "2023: More than $3.5 million in technical assistance grants awarded to 146 credit unions",
+      "Binding Operational Directive 18-02 requires DHS assessment once every 3 years",
+      "Third-party vendor incidents: 73% of total reported incidents since September 1, 2023",
+      "Approximately 90 percent ($1.9 trillion) of industry assets managed by unregulated third-party service providers",
+      "Federal credit union examination frequency: maximum 20 months between examinations"
+    ],
+    "citations": [
+      "NCUA regulations at 12 C.F.R. part 748, Appendix A govern member information safeguards",
+      "NCUA Part 748 governs Security Program requirements",
+      "NCUA Part 749 governs Records Preservation Program requirements",
+      "FTC 16 CFR Part 314 establishes Safeguarding Customer Information standards"
+    ],
+    "timeframes": [
+      "Cyber incident reporting required within 72 hours of reasonable belief of occurrence",
+      "Enterprise Risk Management Council meets monthly to monitor and prioritize risks",
+      "NCUA evaluated at FISMA Maturity Level 4 as of fiscal year 2023",
+      "State-chartered federally insured credit unions: examined no less than every 5 years"
+    ],
+    "key_terms": [
+      "Credit union system serves more than 139 million Americans",
+      "NCUA implements Information Security Examination program for targeted supervision",
+      "NCUA developed Automated Cybersecurity Evaluation Toolbox risk-assessment tool",
+      "NCUA adopted cyber incident notification regulation",
+      "Gramm-Leach-Bliley Act establishes safeguard standards for credit union member information",
+      "Rule effective date: September 1, 2023",
+      "Reporting period: September 1, 2023 through May 1, 2024",
+      "892 cyber incidents reported during reporting period",
+      "73 percent of reported incidents involved third-party use or involvement",
+      "NCUA began using ISE procedures in early 2023",
+      "NCUA ISE procedures began implementation in early 2023",
+      "ISE procedures focus on 12 C.F.R. parts 748 and 749",
+      "ISE procedures align with NCUA Automated Cybersecurity Evaluation Toolbox (ACET)",
+      "CUSO defined: entity with credit union ownership interest or loan, provides products/services to credit unions",
+      "NCUA lacks direct authority over CUSOs despite access to books and records"
+    ]
+  },
+  "cybersecurity-credit-union-system-resilience-2021-247051.md": {
+    "topics": [
+      "BSA",
+      "Cybersecurity"
+    ],
+    "thresholds": [
+      "Share Insurance Fund provides up to at least $250,000 federal share insurance per member",
+      "NCUA examination frequency for federal credit unions: maximum 20 months between examinations",
+      "State-chartered federally insured credit unions examined by state regulator: minimum every 60 months",
+      "NCUA Enterprise Risk Management Committee established LOW risk appetite for operational IT systems",
+      "NCUA cybersecurity staff receive minimum 80 hours instructor-led training annually",
+      "NCUA awarded more than $2.0 million in technical assistance grants in 2019 to 166 credit unions",
+      "By year-end 2018, NCUA conducted ACET reviews in 86% of credit unions with assets greater than $1 billion",
+      "By year-end 2019, NCEA completed ACET reviews on 100% of credit unions with assets greater than $1 billion",
+      "By year-end 2019, 43% of credit unions with $250 million to $1 billion in assets completed ACET reviews",
+      "Top five credit union core processor vendors serve approximately 87% of total credit union system assets",
+      "Top five CUSOs provide services to nearly 96% of total credit union system assets"
+    ],
+    "citations": [
+      "12 C.F.R. \u00a7 748, Appendix A governs credit union information security program requirements",
+      "NCUA Part 748 governs Security Program requirements for IT examination",
+      "NCUA Part 749 establishes Records Preservation Program requirements"
+    ],
+    "timeframes": [
+      "NCUA councils meet as often as monthly to monitor and manage risks"
+    ],
+    "key_terms": [
+      "NCUA created by U.S. Congress in 1970 as independent federal agency",
+      "NCUA regulates and supervises 5,068 federally insured credit unions as of June 30, 2021",
+      "NCUA regulates federal credit unions under Titles I and II of Federal Credit Union Act",
+      "GLBA requires NCUA Board establish safeguards for federally insured credit unions member records",
+      "NCUA uses risk-based approach examining seven primary areas of credit union risk",
+      "InTREx-CU fully deployed for NCUA information technology examinations starting in 2022",
+      "NCUA established MODERATE risk appetite for non-production innovation systems",
+      "NCUA must comply with National Institute of Standards and Technology security controls",
+      "NCUA subject to Federal Information Security Modernization Act of 2014",
+      "NCUA subject to E-Government Act of 2002",
+      "NCUA subject to Privacy Act of 1974",
+      "NCUA implements NIST Special Publication 800-53 (Rev. 5) security controls",
+      "NCUA leverages NIST Cybersecurity Framework for critical infrastructure",
+      "Security controls tested at least annually to validate continued efficacy",
+      "Data encrypted in transit and at rest"
+    ]
+  },
+  "director-office-examination-and-insurance-larry-fazio-hearing-examining-regulato-9ea43a.md": {
+    "topics": [
+      "BSA",
+      "Capital",
+      "Commercial_Lending",
+      "IRR",
+      "PCA"
+    ],
+    "thresholds": [
+      "More than three-quarters of credit unions have less than $100 million in assets",
+      "Median credit union asset size is $24.5 million",
+      "Community financial institution asset threshold: $1 billion",
+      "227 credit unions had $1 billion or more in assets as of 2014",
+      "Credit union system assets exceed $1.1 trillion as of report date",
+      "Over 90 percent of merged credit unions had assets of $50 million or less",
+      "Approximately 50 percent of credit unions under $50 million provide four core services",
+      "50% of credit unions with assets under $50 million provide checking, real estate loans, ATM/debit cards, home banking",
+      "Employee fraud caused $337 million in losses to Share Insurance Fund between 2010 and 2014",
+      "NCUA trained 45,487 individuals in 2014, a 76% increase over previous year",
+      "Small credit union asset threshold increased to $50 million in January 2013",
+      "Previous small credit union asset threshold was $10 million",
+      "Complex credit union threshold increased from $10 million to $50 million",
+      "Interest rate risk rule exemption threshold increased to $50 million",
+      "$100 million threshold would cover 76 percent of all credit unions"
+    ],
+    "citations": [],
+    "timeframes": [
+      "NCUA relaxed eight regulations over past three years",
+      "NCUA streamlined four processes over past three years",
+      "1,211 consumer credit unions merged during past five years",
+      "All NCUA regulations reviewed at least once every three years",
+      "Initiative resulted in 15 actions during first three years",
+      "Risk-based capital rule implementation deadline: January 1, 2019",
+      "Core technology service providers have declined voluntary NCUA reviews in recent years",
+      "Loan maturities permitted up to 40 years after loan modifications",
+      "NCUA reviews small credit union definition every three years starting 2015."
+    ],
+    "key_terms": [
+      "At end of 2014: 6,273 credit unions serving 99.3 million members",
+      "Credit union system assets increased more than five-fold since 1990",
+      "4,050 institutions representing 65 percent of all credit unions classified as small",
+      "NCUA reviews one-third of regulations annually since 1987",
+      "NCUA released 33 regulations for review in May 2014 in Applications and Reporting and Powers and Activities categories",
+      "NCUA received 5 comments on first notice; established working groups to review field of membership and secondary capital",
+      "NCUA opened 17 rules for comment in December 2014 in Agency Programs, Capital, and Consumer Protection categories",
+      "Second comment period closed in March 2015; NCUA received 8 stakeholder comments",
+      "NCUA launched Regulatory Modernization Initiative in 2011 under Chairman Matz",
+      "NCUA eased eight regulations providing relief to thousands of credit unions",
+      "NCUA streamlined three processes facilitating over one thousand low-income designations",
+      "NCUA issued 2012 interest rate risk rule scaled by credit union asset size",
+      "Interest rate risk management heightened focus for NCUA since 2010",
+      "Revised proposed rule covers 1,455 credit unions holding 89 percent of system assets",
+      "Original proposal covered 2,237 credit unions representing 94 percent of system assets"
+    ]
+  },
+  "director-office-examination-and-insurance-larry-fazio-hearing-regulatory-relief--dccc8f.md": {
+    "topics": [
+      "BSA",
+      "Capital",
+      "Commercial_Lending",
+      "IRR"
+    ],
+    "thresholds": [
+      "Three-quarters of credit unions have less than $100 million in assets",
+      "Median credit union asset size is $24 million",
+      "Small credit union threshold: less than $50 million in assets under Regulatory Flexibility Act",
+      "Complex credit union threshold increased from $10 million to $50 million in assets",
+      "Prior small entity threshold: $10 million in assets, updated January 2013",
+      "NCUA eligibility threshold for small credit union consulting services: $50 million",
+      "Proposed threshold increase for small entity definition: $50 million to $100 million",
+      "Proposed $100 million threshold would cover 77 percent of all credit unions",
+      "Proposed threshold increase would provide relief to additional 745 credit unions",
+      "NCUA Board committed to revisit Regulatory Flexibility Act threshold every three years",
+      "NCUA issued four legal opinions allowing operational flexibility",
+      "Liquidity rule applies to federally insured credit unions with more than $50 million in assets",
+      "Final rule exempted credit unions with assets up to $250 million from emergency credit lines",
+      "Interest rate risk rule exempts credit unions with less than $50 million in assets",
+      "Risk-based capital requirement applies to credit unions with more than $100 million in assets"
+    ],
+    "citations": [],
+    "timeframes": [
+      "NCUA relaxed eight regulations over past three years",
+      "NCUA streamlined three processes over past three years",
+      "EGRPRA requires federal banking agencies to review regulations at least once every 10 years",
+      "NCUA eased eight regulations during last three years",
+      "NCUA interest rate risk rule issued three years ago",
+      "CUSO asset usage increased from 79 percent of assets at year-end 2009 to 88 percent"
+    ],
+    "key_terms": [
+      "4,124 credit unions (65 percent) classified as small entities as of testimony date",
+      "May 2014: NCUA released 33 regulations for review in two categories",
+      "December 2014: NCUA opened 17 rules for comment in three additional categories",
+      "NCUA launched Regulatory Modernization Initiative in 2011",
+      "NCUA took 15 actions to cut red tape for credit unions",
+      "NCUA facilitated more than one thousand low-income credit union designations",
+      "NCUA issued October 2013 final rule on emergency liquidity and contingency funding",
+      "Interest rate risk management heightened focus for NCUA since 2010",
+      "Revised proposal covers 1,455 credit unions holding 89 percent of system assets",
+      "Original proposal covered 2,237 credit unions representing 94 percent of system assets",
+      "Revised proposed rule exempts over three-quarters of credit unions",
+      "NCUA proposed fixed-assets rule in July 2014 to streamline requirements",
+      "NCUA Board to consider final fixed-assets rule by end of second quarter",
+      "Asset securitization proposal approved in June 2014 for qualified federal credit unions",
+      "Risk-focused exam program in place since 2002"
+    ]
+  },
+  "fair-lending-guide.pdf": {
+    "topics": [
+      "Appraisals",
+      "CTR",
+      "Capital",
+      "HMDA"
+    ],
+    "thresholds": [
+      "Credit unions with assets over $10 billion under CFPB authority",
+      "Applications cannot request marital status for unsecured credit; secured credit limited to married, unmarried, separated",
+      "CFPB enforces at credit unions with assets greater than $10 billion",
+      "NCUA enforces at federal credit unions with assets less than $10 billion",
+      "FTC enforces Regulation B at state-chartered credit unions under $10 billion",
+      "Punitive damages up to $10,000 in individual lawsuits under Section 1002.16(b)",
+      "Class action damages: lesser of $500,000 or one percent net worth",
+      "Regulation B: punitive damages up to $10,000 in individual lawsuits",
+      "Regulation B: punitive damages up to $500,000 or 1% net worth in class actions",
+      "Community property state applicants: limit marital status to married, unmarried, separated",
+      "Regulation B \u00a71002.5(d)(1): Secured loans limited to marital status terms: married, unmarried, or separated",
+      "Age consideration permitted only to favor elderly applicants [\u00a71002.6(b)(2)(iv)]",
+      "Applicant may request consideration of spouse/former spouse credit information [\u00a71002.6(b)(6)(iii)]",
+      "Dwelling includes building, structure, or portion thereof occupied as residence by one or more families",
+      "Credit union exempt if total assets at or below CFPB-established threshold on December 31st"
+    ],
+    "citations": [
+      "Regulation B implemented at 12 CFR part 1002",
+      "Official ECOA interpretations found in Supplement I to 12 CFR part 1002",
+      "HUD Fair Housing Act regulations implemented at 24 CFR Part 100",
+      "ECOA implemented by Regulation B (12 CFR 1002)",
+      "Basic rule: creditor shall not discriminate on prohibited basis per \u00a71002.4",
+      "Federal credit unions subject to appraisal requirements in Section 701.31(c)(5) and Part 722 NCUA Rules",
+      "Section 1002.14 Regulation B effective January 18, 2014 for appraisals and valuations",
+      "Section 1002.14 effective January 18, 2014",
+      "Creditors prohibited from charging for appraisal copies under Section 1002.14",
+      "Notice requirements governed by Section 1002.9 and Section 701(a) of ECOA",
+      "Business credit applicant notification requirements vary per Section 1002.9(a)(3)",
+      "Equal Housing Lender Poster required per NCUA Rules and Regulations Section 701.31(d)(2)",
+      "Creditor must provide ECOA Section 701(a) statement per Section 1002.9(a) and (b)",
+      "Written applications required for credit related to principal residence purchase or refinancing per Section 1002.4(c)",
+      "Creditor must inform applicants of federal monitoring requests for ethnicity, race, sex, marital status, age per Section 1002.13"
+    ],
+    "timeframes": [
+      "Notify applicants of credit decision within 30 days of completed application",
+      "Retain credit application records for 25 months after notifying member",
+      "Notify applicants of credit decision within 30 days of receiving completed application",
+      "Retain credit application records for 25 months after notifying member of decision",
+      "Creditors must notify applicants within three business days of application receipt",
+      "Appraisals must be provided three business days before consummation or account opening",
+      "Applicants waiving timing requirement must receive copies within 30 days of non-consummation",
+      "ECOA notice must be provided within 30 days after receipt of completed application",
+      "Record retention: 25 months from notice of action date; 12 months for business credit",
+      "Record retention required for 25 months after date of notice of action taken"
+    ],
+    "key_terms": [
+      "ECOA prohibits discrimination in any aspect of credit transaction extension",
+      "Fair Housing Act prohibits discrimination in residential real-estate related transactions",
+      "ECOA prohibits discrimination based on race, color, religion, national origin, sex, marital status, age, public assistance income, Consumer Credit Protection Act rights",
+      "ECOA prohibits discrimination on basis of sex, familial status, handicap in credit transactions",
+      "Fair Housing Act prohibits discrimination based on race, color, religion, national origin, sex, familial status, handicap",
+      "NCUA fair lending examination program implemented in 1999",
+      "NCUA enforces ECOA and Regulation B in federal credit unions",
+      "NCUA enforces HMDA and Regulation C in federally insured credit unions",
+      "NCUA refers discrimination pattern/practice matters to U.S. Department of Justice",
+      "Regulation B requires collection of applicant race data for dwelling-related loans",
+      "Regulation B amended April 15, 2003; mandatory compliance date April 15, 2004",
+      "Self-test required when results indicate 'more likely than not' violation occurred",
+      "Credit applications cannot request applicant's sex, race, color, religion, national origin",
+      "Creditors must take corrective action when self-test results indicate violation more likely than not",
+      "ECOA self-test: creditors must disclose information collection is optional to applicants"
+    ]
+  },
+  "faq-40c619.md": {
+    "topics": [
+      "CTR",
+      "HMDA"
+    ],
+    "thresholds": [
+      "Credit unions covered by Regulation C must file HMDA report if exceeding asset threshold",
+      "Credit unions must correct HMDA data when 10% or more of LAR sample entries contain errors",
+      "Credit unions must correct HMDA data when individual data field error rate is 5% or more",
+      "NCUA examines federal credit unions with assets less than $10 billion",
+      "CFPB examines credit unions with assets over $10 billion"
+    ],
+    "citations": [
+      "NCUA nondiscrimination requirements for real estate-related loans: 12 CFR \u00a7 701.31"
+    ],
+    "timeframes": [
+      "HMDA filing required if originating at least 25 home purchase loans in each of two preceding calendar years"
+    ],
+    "key_terms": [
+      "Fair lending regulations: ECOA, Regulation B, HMDA, Regulation C, Fair Housing Act",
+      "HMDA data reporting required electronically starting 2018",
+      "NCUA designated enforcement agency for federally insured credit unions under HMDA",
+      "HMDA filing requires home/branch office in Metropolitan Statistical Area on preceding December 31",
+      "NCUA may impose civil money penalties for repeated HMDA filing failure or late filing",
+      "NCUA refers ECOA matters to DOJ when pattern or practice of discrimination suspected",
+      "NCUA, CFPB, HUD, and DOJ have fair lending enforcement authority over credit unions",
+      "NCUA conducts fair lending examinations per Federal Financial Institutions Examination Council procedures",
+      "Fair lending examinations review loan applications, loan files, and HMDA data if applicable",
+      "Examination reports include Overview, Supplementary Facts, Findings, Loan Exceptions, and Document of Resolution",
+      "Supervision contact reports include Overview, Supplementary Facts, and Findings with corrective action recommendations",
+      "OCFP Director resolves disputes about fair lending examination and supervision contact results"
+    ]
+  },
+  "ffiec-issues-new-customer-due-diligence-and-beneficial-ownership-examination-pro-83f185.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "FinCEN issued final rule on Customer Due Diligence Requirements on May 11, 2016",
+      "Covered financial institutions must comply with beneficial ownership rule by May 11, 2018",
+      "Rule applies to banks, credit unions, savings associations, and foreign bank branches"
+    ]
+  },
+  "final-risk-based-capital-rule-report-cd7617.md": {
+    "topics": [
+      "CTR",
+      "Capital",
+      "Commercial_Lending",
+      "IRR",
+      "PCA"
+    ],
+    "thresholds": [
+      "Complex credit unions defined as those with assets over $100 million",
+      "$100 million asset threshold used as proxy for credit union compliance",
+      "Cash and currency carry 0% risk weight under NCUA and other banking agencies",
+      "Uninsured deposits at federally insured institutions: 20% risk weight",
+      "Revenue bonds issued by state or political subdivisions: 50% risk weight",
+      "Mortgage servicing assets: 250% risk weight under NCUA and other agencies",
+      "Corporate perpetual capital: 100-150% risk weight under NCUA",
+      "General Account Insurance: 100% risk weight",
+      "Mortgage Servicing Assets: 250% risk weight",
+      "Subordinated Tranche of Any Investment: 1,250% risk weight",
+      "Share-Secured loans at credit union: 0% risk weight",
+      "Current First Lien real estate >35% assets: 75% risk weight",
+      "Non-Current Junior Lien real estate: 150% risk weight",
+      "Current junior lien less than 20% of assets: 100% capital requirement",
+      "Current junior lien greater than 20% of assets: 150% capital requirement"
+    ],
+    "citations": [
+      "Section 301 added section 216 to Federal Credit Union Act",
+      "NCUA Board implemented prompt corrective action system under part 702",
+      "System must be consistent with section 216 of Federal Credit Union Act",
+      "Non-significant equity exposures risk weight: 100 percent under section 702.104(c)(3)(i)",
+      "Section 216(d)(1) of Federal Credit Union Act directs NCUA implementation",
+      "Federal Credit Union Act section 216(c) establishes graduated prompt corrective action capital categories",
+      "Section 216(c) of Federal Credit Union Act establishes graduated prompt corrective action capital categories",
+      "12 CFR 745.9-2 and 12 CFR 723.7 cited for capital requirements",
+      "Regulatory capital deductions specified in 12 CFR 324.22(a)(3) through (8)",
+      "Regulatory citation: 12 CFR 324.20(d)(3)",
+      "12 CFR 324.22(a)(9) governs contingency accounting guidance",
+      "See 12 CFR 324.32(l)(1) for cash on hand risk weight requirements",
+      "Reference: 12 CFR 324.32(l)(2)",
+      "Part 703 of NCUA's rules establishes investment types for federally chartered credit unions",
+      "Zero percent risk weight applies to U.S. Government obligations with direct, unconditional guarantees per 12 CFR 324.32"
+    ],
+    "timeframes": [
+      "Investments with maturities greater than five years trigger complexity if over 1 percent of total assets",
+      "80 percent of credit union failures involved well-capitalized institutions 24 months before failure",
+      "Supervisory merger goodwill eligible if completed within 60 days of final rule publication",
+      "Non-current consumer loans defined as more than 90 days past due",
+      "Non-current first-lien residential real estate loans defined as more than 90 days past due",
+      "Non-current loan defined as more than 90 days past due",
+      "Unfunded commercial loan commitments: original maturity greater than one year required",
+      "18-month timeframe applies after credit union becomes critically undercapitalized",
+      "Financial crisis involving depository institutions occurs approximately once every 20 to 25 years",
+      "Study period: fourth quarter 2007 through five years after, encompassing 2007-2009 recession"
+    ],
+    "key_terms": [
+      "NCUA insures deposits of more than 101 million account holders in federal credit unions",
+      "Risk-Based Capital Rule applies only to complex credit unions",
+      "Final Risk-Based Capital Rule effective date was deferred",
+      "Congress enacted Credit Union Membership Access Act in 1998",
+      "2011: NCUA Board began modernizing risk-based net worth rule",
+      "Modernization driven by 2007-2009 financial crisis lessons and Basel accords",
+      "NCUA Board issued original proposed rule on risk-based capital January 23, 2014",
+      "NCUA received 2,056 comment letters during extended comment period",
+      "Revised proposed rule issued January 15, 2015",
+      "Credit Union Membership Access Act requires prompt corrective action system comparable to banking agencies",
+      "Basel capital accords adopted internationally; federal banking agencies adopted new rules in 2013",
+      "Implementation date extended to January 1, 2019",
+      "Comment period closed on April 27, 2015",
+      "H.R. 2769 introduced by Denny Heck in 2015 requires NCUA risk-based capital rule study",
+      "House Financial Services Committee favorably reported H.R. 2769 on September 30, 2015"
+    ]
+  },
+  "fincen-issues-exceptive-relief-bank-secrecy-act-requirement-credit-unions-59d783.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [
+      "Credit unions may limit beneficial owner verification to initial account opening, suspicious circumstances, or risk-based procedures"
+    ],
+    "citations": [
+      "FinCEN regulation \u00a7 1020.210(a)(2)(v) requires credit unions to develop risk-based customer due diligence procedures"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "FinCEN issued Exceptive Order on February 13, 2026 regarding Customer Due Diligence regulation",
+      "Exceptive relief is optional; credit unions must continue BSA/AML-CFT compliance",
+      "Credit unions must comply with Bank Secrecy Act anti-money laundering/countering financing of terrorism requirements",
+      "Exceptive relief for customer due diligence requirements is optional for credit unions"
+    ]
+  },
+  "frequently-asked-questions-regarding-suspicious-activity-reporting-d226c4.md": {
+    "topics": [
+      "BSA",
+      "CTR",
+      "SAR"
+    ],
+    "thresholds": [
+      "CTR threshold: over $10,000",
+      "CTR threshold: over $10,000 triggers currency transaction reporting requirement",
+      "SAR filing required: transaction aggregates at least $5,000 in funds or assets",
+      "SAR threshold applies when transaction designed to evade BSA reporting requirements",
+      "Structuring: breaking down currency exceeding $10,000 into smaller sums to evade CTR reporting",
+      "CTR reporting threshold: $10,000 in currency transactions",
+      "Continuing activity review period: 90 days minimum between SAR filings",
+      "Structuring: transaction series need not exceed $10,000 threshold at single institution daily",
+      "Structuring: transactions need not exceed $10,000 threshold at single institution daily",
+      "Additional 30 calendar days allowed to identify suspect; maximum 60 days total"
+    ],
+    "citations": [
+      "Banks subject to SAR requirements under 31 C.F.R. \u00a7 1020.320",
+      "Money Services Businesses subject to SAR requirements under 31 C.F.R. \u00a7 1022.320",
+      "Brokers or Dealers in Securities subject to SAR requirements under 31 C.F.R. \u00a7 1023.320",
+      "NCUA enforces SAR requirements under 12 C.F.R. \u00a7 748.1(d)",
+      "OCC enforces SAR requirements under 12 C.F.R \u00a7 21.11",
+      "31 C.F.R. \u00a7 1020.320(a)(2)(ii) governs suspicious activity reporting requirements",
+      "31 U.S.C. \u00a7 5324 addresses structuring violations under Bank Secrecy Act",
+      "Regulated by 31 C.F.R. \u00a7 1020.320(b)(3)"
+    ],
+    "timeframes": [
+      "FinCEN suggested filing SAR for repeated suspicious activity at least every 90 days",
+      "Initial SAR filing deadline: 30 days from detection of suspicious activity",
+      "Continuing activity SAR filing deadline: 120 calendar days after previous SAR",
+      "Continued suspicious activity SAR filing deadline: 150 days from initial detection",
+      "90-day period for continued suspicious activity reporting under BSA",
+      "Continuing suspicious activity: file SAR report at least every 90 days",
+      "SAR filing required within 30 calendar days of initial detection of reportable facts",
+      "SAR reporting must not be delayed more than 60 days after initial detection",
+      "90-day period for continued suspicious activity reporting after initial SAR filing"
+    ],
+    "key_terms": [
+      "SAR filing required for structuring activity designed to evade BSA reporting requirements",
+      "SAR filing requires: institution knows, suspects, or has reason to suspect evasion",
+      "Structuring unlawful under Bank Secrecy Act (BSA)",
+      "AML/CFT programs must detect and report structuring activity",
+      "Financial institutions may rely on risk-based internal policies to monitor suspicious activity",
+      "Financial institutions may file SARs per applicable timelines instead of continuing activity guidance",
+      "No BSA requirement to document decision not to file a SAR",
+      "FinCEN Ruling 2005-6 addresses structuring under Bank Secrecy Act"
+    ]
+  },
+  "generic_operations.md": {
+    "topics": [],
+    "thresholds": [
+      "Unauthorized card transaction: report within 2 business days to limit liability to $50 (Reg E)",
+      "Overdraft fee: $34 per item, maximum 3 per day, waived if negative balance < $50",
+      "Monthly fee waiver: combined average daily balance >= $1,500 or monthly direct deposit >= $500",
+      "Daily ATM withdrawal limit: $1,000 standard debit, $2,000 premium; international withdrawals $5 + 3% FX"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Dispute window: 60 days from statement date for EFT errors",
+      "Provisional credit within 10 business days after claim intake; may extend to 45 days"
+    ],
+    "key_terms": []
+  },
+  "have-questions-about-implementing-new-mb-d7b611.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "home-equity-lines-credit-nearing-their-end-draw-period-54b037.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "home-mortgage-disclosure-act-regulation--a8b3da.md": {
+    "topics": [
+      "CTR",
+      "HMDA"
+    ],
+    "thresholds": [
+      "Asset-size threshold determined by Federal Register annual publication per \u00a71003.2(g)(1)(i)",
+      "Asset threshold measured on preceding December 31 per \u00a71003.2(g)(1)(i)",
+      "Multifamily dwelling definition requires five or more dwellings per \u00a71003.2(n)",
+      "Closed-end mortgage loan or open-end line of credit exemption: less than $500 \u00a7 1003.3(c)(7)",
+      "Closed-end mortgage loan threshold: 25 loans through June 30, 2020; 100 loans effective July 1, 2020",
+      "Open-end lines of credit threshold: 500 lines through December 31, 2021; 200 lines effective January 1, 2022",
+      "Partial exemptions require applicable loan-volume thresholds to be met for applicability",
+      "HMDA LAR retention requirement: minimum three years per \u00a71003.5(a)(1)(i)",
+      "Examiners may direct resubmission if errors likely make HMDA data analysis unreliable, regardless of threshold",
+      "Application received date: three calendar days or less per \u00a7 1003.4(a)(1)(ii)",
+      "Covered loan threshold: $1,000 or less per \u00a7 1003.4(a)(7)",
+      "Credit union action date: three calendar days or less per \u00a7 1003.4(a)(8)(ii)",
+      "HMDA LAR application date error threshold: within three calendar days of actual application date",
+      "Four errors in Action Taken equals Resubmission Threshold; ten errors in Loan Amount exceeds threshold",
+      "Initial Sample of 35 loans tested; two errors in Race of Applicant or Borrower equals threshold"
+    ],
+    "citations": [
+      "CFPB restated Regulation C, 12 CFR Part 1003 in December 2011",
+      "Regulation C citation: \u00a71003.2(g)(1)",
+      "Location test requires home or branch office in MSA per \u00a71003.2(g)(1)(ii)",
+      "Location test measured on preceding December 31 per \u00a71003.2(g)(1)(ii)",
+      "Loan Activity Test: Credit union originated at least one home purchase loan during preceding calendar year per \u00a71003.2(g)(1)(iii)",
+      "Federally Related Test: Credit union must be federally insured or federally regulated per \u00a71003.2(g)(1)(iv)(A)",
+      "Home purchase loan secured by first lien on one-to-four-unit dwelling. \u00a71003.2(g)(1)(iv)(B)",
+      "Regulation C \u00a71003.3(c)(1)\u2013(13) governs excluded transactions from coverage",
+      "Financial institution definition determined by \u00a71003.2(g)",
+      "Surviving or newly formed credit union must satisfy \u00a71003.2(g) criteria",
+      "Regulation C applies to covered loans defined in \u00a71003.2(e)",
+      "Regulation C excludes transactions defined in \u00a71003.3(c)(1)\u2013(13)",
+      "Financial institutions defined in \u00a71003.2(g) must report covered loan data",
+      "Covered loans defined in \u00a71003.2(e) require transaction reporting",
+      "Transaction types \u00a71003.3(c)(1)\u2013(13) are explicitly excluded from Regulation C"
+    ],
+    "timeframes": [
+      "Final action on consolidation and new funds transaction in same calendar year",
+      "Fewer than 500 closed-end mortgage loans in two preceding years qualifies for partial exemption",
+      "Fewer than 500 open-end lines of credit in two preceding years qualifies for partial exemption",
+      "Disclosure statement must be made available no later than three business days after FFIEC notice",
+      "HMDA data collection begins January 1 of following calendar year after merger",
+      "HMDA LAR updated within 30 days after end of each calendar quarter",
+      "Annual HMDA LAR submission deadline: no later than March 1 following calendar year",
+      "Quarterly HMDA reporting submission: within 60 calendar days after quarter end",
+      "HMDA LAR retention requirement: at least 3 years after submission",
+      "Public notice availability after FFIEC notification: no later than 3 business days"
+    ],
+    "key_terms": [
+      "HMDA enacted by Congress in 1975, implemented by Regulation C",
+      "Dodd-Frank Act of 2010 transferred HMDA rulemaking authority to CFPB",
+      "CFPB issued HMDA final rule in October 2015 implementing Dodd-Frank amendments",
+      "Economic Growth Act of 2018 provided reporting exemptions for some institutions",
+      "Credit union subject to Regulation C if five tests met: Asset-Size, Location, Loan Activity, Federally Related, Loan-Volume",
+      "HMDA compliance requires accurate and timely submission of Loan Application Register (LAR)",
+      "Loan insured, guaranteed, or supplemented by Federal agency OR intended for Fannie Mae/Freddie Mac sale",
+      "Jan 1, 2018 - Jun 30, 2020: 25 closed-end mortgage loans or 500 open-end lines annually",
+      "Jul 1, 2020 - Dec 31, 2021: 100 closed-end mortgage loans or 500 open-end lines annually",
+      "Jan 1, 2022 onward: 100 closed-end mortgage loans or 200 open-end lines annually",
+      "Post-merger coverage assessed using combined assets, location, and lending activity",
+      "Open-end line of credit requires extension of credit secured by dwelling lien",
+      "Credit must be secured by lien on dwelling",
+      "Loan secured by five separate dwellings in multiple locations is not multifamily",
+      "Loan securing partial units in multifamily complex is not multifamily dwelling"
+    ]
+  },
+  "how-htm-6d2478.md": {
+    "topics": [
+      "Capital",
+      "IRR"
+    ],
+    "thresholds": [],
+    "citations": [
+      "NCUA regulations \u00a7 741.3(b)(5) and part 741, Appendix A require interest rate risk policy"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Credit unions with higher IRR must hold additional net worth for economic value protection",
+      "Net worth provides credit union protection from unexpected losses and supports strategic growth"
+    ]
+  },
+  "industry-webinar-material-f0f4ba.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending",
+      "PCA"
+    ],
+    "thresholds": [
+      "Complex credit union threshold increased from $50 million to $500 million effective 2022",
+      "Well capitalized: Net Worth Ratio 7% or greater; Risk-Based Capital Ratio 10% or greater",
+      "Adequately capitalized: Net Worth Ratio 6%-6.99%; Risk-Based Capital Ratio 8% or greater",
+      "Undercapitalized: Net Worth Ratio 4%-5.99%; Risk-Based Capital Ratio less than 8%",
+      "Credit unions with $500 million or less assets use Net Worth Ratio only",
+      "Net worth ratio is sole measure for credit unions with $500 million or less in assets",
+      "Complex credit unions defined as those exceeding $500,000,000 in quarter-end total assets per \u00a7702.103",
+      "691 complex credit unions hold $1.72 trillion in total assets as of December 31, 2021",
+      "4,251 non-complex credit unions hold $0.33 trillion in total assets as of December 31, 2021",
+      "RBC ratio formula: RBC Ratio Numerator divided by Risk-Weighted Assets",
+      "Mortgage Servicing Assets deduction threshold: 25% of RB0010",
+      "Risk weight categories: 0%, 20%, 50%, 75%, 100%",
+      "1-lien residential mortgages subject to 35% concentration threshold",
+      "Commercial loans under $50,000 threshold for risk-weighting classification",
+      "Total loans remain unchanged at $74.3M after AFS adjustments"
+    ],
+    "citations": [
+      "See \u00a7702.104 for risk weights details",
+      "Subordinated Debt governed by \u00a7702.407",
+      "Section 208 Assistance defined in \u00a7702.2",
+      "\u00a7 702.2 defines Off-balance Sheet Exposures (OBE) for capital adequacy",
+      "\u00a7 702.104(4) establishes risk weights for off-balance sheet items",
+      "Qualifying complex credit unions may opt into CCULR under section 216(c)(1)(A)(ii)"
+    ],
+    "timeframes": [
+      "PFE Factor: 0.015 for 10-year swap; 0.005 for cap"
+    ],
+    "key_terms": [
+      "Risk-Based Capital Standards effective January 1, 2022 per NCUA Board final rule",
+      "Complex Credit Union Leverage Ratio (CCULR) rule effective January 1, 2022",
+      "Risk-Based Capital rule originally effective January 1, 2019, delayed to January 1, 2022",
+      "Federal Credit Union Act mandates risk-based net worth requirement for capital adequacy",
+      "NWR/RBC is binding constraint for complex credit unions",
+      "RBC Ratio Numerator equals Capital Elements plus Additions minus Deductions",
+      "Risk-Weighted Assets include on-balance sheet assets and off-balance sheet exposures",
+      "Risk-Based Capital numerator calculation: RB0010 less RB0011",
+      "Consumer loans include accounts 396, 397A, 698A, 397, 385, 370, 002, 698C, 386B",
+      "RBC Schedule denominator: Credit Equivalent Amount entered into respective Risk Weight category",
+      "RBC Schedule totals: RB0162 equals sum of RB0163 through RB0169",
+      "Off-balance sheet derivative credit equivalent amounts: Sum each column RB0159, RB0160, RB0161",
+      "PPP loans reclassified from consumer loans to commercial loans category",
+      "Unconditionally cancelable commitments carry zero percent Credit Conversion Factor",
+      "Conditionally cancelable unfunded commitments carry 50 to 100 percent CCF"
+    ]
+  },
+  "interagency-statement-c94a3b.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [
+      "AML Act section 6205 requires review of dollar reporting thresholds for BSA reports"
+    ],
+    "citations": [
+      "AML Act section 6002 establishes overarching purposes for AML/CFT modernization",
+      "Section 6101 of AML Act requires bank review of AML/CFT Priorities incorporated into risk-based program",
+      "Section 6307 of AML Act requires Treasury establish examiner training on AML/CFT topics",
+      "AML Act section 6216 requires FinCEN to conduct broad AML/CFT regulations review",
+      "AML Act section 6204 requires review of streamlined BSA reporting requirements",
+      "Proposal issued pursuant to 31 U.S.C. 5318(h)(4)(D), amended by AML Act section 6101(b)",
+      "Bank defined in BSA regulations at 31 CFR 1010.100(d)",
+      "AML Act section 6002(3) and (4) establish purposes for anti-money laundering requirements",
+      "AML Act section 6101(b) requires Treasury Secretary to establish government-wide AML/CFT priorities",
+      "Regulatory citation: Section 6101(b)(2)(C) of AML Act codified at 31 U.S.C. 5318(h)(5)",
+      "31 U.S.C. 5318(h)(4)(E) amended by AML Act section 6101(b)(2)(C)",
+      "31 U.S.C. 5334 amended by AML Act section 6307"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "FinCEN issued AML/CFT Program NPRM on June 28, 2024",
+      "Proposed amendments apply to all financial institutions subject to Bank Secrecy Act",
+      "Five agencies issued coordinated NPRMs: Federal Reserve, FDIC, NCUA, OCC, FinCEN",
+      "Anti-Money Laundering Act of 2020 enacted changes requiring BSA compliance program amendments",
+      "Financial institutions must establish reasonably designed and risk-based AML/CFT programs",
+      "Banks must comply with unified FinCEN standard rather than differing program requirements",
+      "AML/CFT Program NPRMs require risk-based AML/CFT programs at financial institutions",
+      "AML/CFT programs must be effective, risk-based, and reasonably designed",
+      "Financial institutions must establish risk assessment process for AML/CFT program",
+      "Risk assessment must identify ML/TF risks from business activities and geographic locations",
+      "AML/CFT programs must comply with BSA and implementing regulations",
+      "AML/CFT program must be established, maintained, and enforced by U.S.-based persons",
+      "AML/CFT program personnel must be subject to FinCEN and Federal functional regulator oversight",
+      "Independent testing conducted by qualified personnel or qualified outside party required",
+      "Compliance officer must be qualified for effective, reasonably designed, risk-based AML/CFT program"
+    ]
+  },
+  "intro-htm-e48fb4.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "irr-20procedures-20guidance-20internal-2a5960.md": {
+    "topics": [
+      "Capital",
+      "IRR",
+      "PCA"
+    ],
+    "thresholds": [
+      "Credit unions with total assets between $30 and $50 million: regions have discretion selecting RFE or SCUEP exam",
+      "IRR Examination Workbook required for credit unions with assets over $500 million",
+      "NCUA Instruction 5000.20 defines asset threshold for Supervisory Test use",
+      "IRR report data source must match credit union's IRR limits compliance reporting",
+      "Examiners enter effective duration for +300 basis points for total assets and liabilities",
+      "+300 basis points shock scenario required for NCUA NEV tolerance threshold compliance",
+      "Original maturity of 90 days or less instruments reported in C&CE category",
+      "Effective Duration recorded with +300 basis point adjustment for liability sensitivity",
+      "Low IRR risk classification: Post-shock NEV above 7% and sensitivity below 40%",
+      "Moderate IRR risk classification: Post-shock NEV 4% to 7% and sensitivity 40% to 65%",
+      "High IRR risk classification: Post-shock NEV below 4% and sensitivity above 65%",
+      "NCUA prefers Supervisory Test for credit unions with assets greater than $500 million",
+      "ENT used for credit unions with assets less than $500 million",
+      "Base Factor for Total Cash on Hand: 0.0%",
+      "Base Factor for Total Cash on Deposit: 0.0%"
+    ],
+    "citations": [
+      "Grandfathered Secondary Capital qualifies as equity for Low Income credit unions under part 702, subpart D",
+      "Asset section contribution: minus 671 basis points; loans minus 610 basis points",
+      "Liability section contribution: plus 302 basis points from NMS accounts",
+      "Part 702, subpart D governs Subordinated Debt and Grandfathered Secondary Capital compliance requirements",
+      "\u00a7 704.2 defines Corporate Credit Union Definitions-Net Economic Value",
+      "Part 702, subpart D governs Subordinated Debt and Grandfathered Secondary Capital",
+      "NCUA regulation Part 741 \u2013 Appendix B provides detailed IRR policy guidance",
+      "DOR not required for NEV Test or ENT risk classification alone per 12 CFR 741.3",
+      "Undue risk defined: probability of loss exceeding normal credit union levels per 12 CFR 741.3(d)",
+      "NCUA regulation \u00a7 702.102 governs capital classification and enforcement actions",
+      "12 CFR 741.3(b)(5) and Appendix A provide regulatory citation reference"
+    ],
+    "timeframes": [
+      "Prepayment assumptions must be assessed no less frequently than once each year",
+      "Grandfathered Secondary Capital exclusion cannot include Capital sourced within FICU industry",
+      "Income simulations typically focus on short-term time horizons of 1-3 years",
+      "Common EAR method projects net interest income for 12-month period under base case scenarios",
+      "EAR models project net interest income over 12-month period under base and alternative scenarios",
+      "EAR simulation time horizon must extend at least one year beyond ramp-up period",
+      "Ramp scenarios: rates change 25 bps per month over 12 months for 300 bps total",
+      "EAR projections beyond 2-3 years introduce significant replacement assumptions and reduced reliability",
+      "Monthly IRR reports may be appropriate if balance sheet incurs significant change",
+      "Rate Ramp Scenario: 300 basis point increase over 12 months, 25 basis points monthly"
+    ],
+    "key_terms": [
+      "IRR assessed for all federally insured credit unions per Risk-Focused Examination (RFE) program",
+      "IRR review scope scaled to credit union asset size and NEV Supervisory Test risk classification",
+      "IRR evaluation considers Supervisory Test results, income simulations, stress testing, and management systems",
+      "IRR is one of seven discrete supervisory risks evaluated during NCUA examinations",
+      "IRR review scope determined by credit union total asset size and Supervisory Test risk classification",
+      "NCUA Instruction 5000.20 sets forth criteria for RFE or defined-scope exam determination",
+      "SCUEP defined-scope examinations: all identified review areas are required",
+      "IRR Workbook organized into nine sections across separate tabs A through J",
+      "Supervisory Test uses prescribed standardized valuations for non-maturity shares in base and shock scenarios",
+      "NEV scenario analysis measures economic value of net worth under changing interest rates",
+      "Revision Date: September 1, 2022",
+      "Asset and liability values entered in basis points: book, base, 1, and +300 bps",
+      "NEV evaluation verifies reasonableness and supportability of material asset and liability valuations",
+      "NEV Ratio Sensitivity shock scenario: instantaneous, parallel, sustained +300 basis points",
+      "Book NEV Ratio reconciliation point must match Net Worth Ratio on Call Report"
+    ]
+  },
+  "irrprogram-htm-62374b.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "joint-fact-sheet-bank-secrecy-act-due-diligence-requirements-charities-and-non-p-ef618c.md": {
+    "topics": [
+      "BSA",
+      "SAR"
+    ],
+    "thresholds": [],
+    "citations": [
+      "Bank defined in 31 CFR 1010.100(d) includes agents, agencies, branches, offices within United States",
+      "12 CFR 748.1(c) governs NCUA Bank Secrecy Act due diligence requirements",
+      "12 CFR 748.2(b)(2) specifies NCUA customer identification program procedures",
+      "31 CFR 1020.320 and 31 CFR 1020.220 establish FinCEN compliance standards",
+      "31 CFR 1010.230 addresses regulatory reporting requirements",
+      "31 CFR 1010.230(e)(3)(ii): Nonprofit entities identify single individual with significant responsibility",
+      "31 CFR 1010.230 governs Bank Secrecy Act due diligence requirements",
+      "31 CFR 1020.210(b)(5) establishes regulatory requirements for financial institutions"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "FinCEN 2016 CDD Final Rule governs customer due diligence requirements for NPOs",
+      "Five agencies issued joint guidance: Federal Reserve, FDIC, FinCEN, NCUA, OCC",
+      "Guidance issued November 19, 2020 on Bank Secrecy Act due diligence requirements",
+      "Charity and NPO accounts subject to BSA/AML regulatory requirements",
+      "Requirements include suspicious activity reporting, customer identification, CDD, beneficial ownership",
+      "Charities report annually on IRS Form 990 regarding mission, programs, finances, donors, and activities",
+      "CDD rule does not require collection of specific NPO customer information for ML/TF risk assessment",
+      "Customer Due Diligence Requirements for Financial Institutions cited: 81 FR 29398 (May 2016)",
+      "ML/TF risk for charities and NPOs varies; does not present uniform high risk",
+      "Risk-based approach for charities and NPOs consistent with existing CDD and BSA/AML requirements",
+      "Form 990 Schedule F requires reporting for charities with overseas activities"
+    ]
+  },
+  "joint-statement-23779b.md": {
+    "topics": [
+      "BSA",
+      "SAR"
+    ],
+    "thresholds": [],
+    "citations": [
+      "Bank defined in 31 CFR 1010.100(d) includes agents, agencies, branches, offices within United States",
+      "CDD rule citations: 31 CFR 1010.210, 1020.210(b)(5), and 1010.230",
+      "PEP due diligence regulations: 31 CFR 1010.605(p) and 31 CFR 1010.620",
+      "USA PATRIOT Act Section 312 codified at 31 CFR 1010.600-630",
+      "PEP due diligence requirements: 12 CFR 748.1(c) (NCUA)",
+      "PEP enhanced due diligence: 12 CFR 748.2(b)(2) (NCUA)",
+      "CDD requirements: 31 CFR 1010.210 and 1020.210(b)(5)",
+      "Beneficial ownership identification: 31 CFR 1010.230",
+      "31 CFR 1020.210(b)(5) governs private banking account due diligence requirements"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "FinCEN 2016 CDD Final Rule establishes customer due diligence requirements for banks",
+      "Joint statement addresses BSA/AML regulatory requirements for politically exposed persons",
+      "Five agencies issued joint statement: Federal Reserve, FDIC, FinCEN, NCUA, OCC",
+      "U.S. public officials excluded from politically exposed persons definition",
+      "Senior foreign political figure defined as subset of PEPs under BSA private banking regulation",
+      "CDD level and type must be commensurate with risks presented by PEP relationship",
+      "PEP accounts subject to BSA/AML regulatory requirements including suspicious activity reporting",
+      "Banks must apply risk-based approach to CDD for customer risk profiles",
+      "Banks required to identify and verify beneficial owners of legal entity customers",
+      "Banks must conduct ongoing monitoring to identify and report suspicious transactions",
+      "Banks must adopt risk-based procedures for conducting CDD under CDD rule",
+      "No regulatory requirement for unique additional due diligence steps for PEP customers",
+      "Banks obligated to identify and report suspicious activity under Bank Secrecy Act",
+      "Banks must apply BSA/AML requirements including CDD and suspicious activity monitoring"
+    ]
+  },
+  "joint-statement-7707ee.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [
+      "Bank Secrecy Act defines 'bank' in 31 CFR 1010.100(d)",
+      "Regulatory citation: 31 CFR 1020.210(a)(2)(v)"
+    ],
+    "timeframes": [
+      "Definition includes agents, agencies, branches, offices within United States"
+    ],
+    "key_terms": [
+      "Joint statement issued July 6, 2022 by Federal Reserve, FDIC, FinCEN, NCUA, and OCC",
+      "Statement reinforces risk-based approach to customer due diligence under BSA/AML requirements",
+      "No customer type presents uniform risk level for money laundering or terrorist financing",
+      "CDD requirements apply to all customer types in FFIEC BSA/AML Examination Manual",
+      "FFIEC BSA/AML Examination Manual provides guidance to examiners, not requirements for banks",
+      "Definition covers banks, savings associations, credit unions, foreign banks"
+    ]
+  },
+  "lcu2005-07encl-08bbb8.md": {
+    "topics": [
+      "Appraisals",
+      "Commercial_Lending",
+      "HMDA"
+    ],
+    "thresholds": [
+      "Low doc or no doc lending limits documentation of borrower assets, employment, income",
+      "Higher LTV and DTI ratios identified as risk management concern",
+      "HELOC credit reduction permitted under Regulation Z in limited circumstances only",
+      "Institutions must establish and monitor concentration limits for key portfolio segments",
+      "High LTV one- to four-family residential loans aggregate limit: 100% of institution's total capital",
+      "High LTV loans for non-residential properties limit: 30% of institution's capital",
+      "Raw land zoned residential: LTV threshold 65%",
+      "Residential construction loan: LTV threshold 85%",
+      "Owner-occupied permanent mortgage without insurance: LTV threshold 90%",
+      "LTV threshold: 90% or greater on owner-occupied one- to four-family residential property requires exception reporting",
+      "Pool insurance reduces LTV below 90% and covers life of each loan to remove HLTV designation",
+      "Real estate secured loans exceeding supervisory LTV limits reported quarterly to board of directors",
+      "LTV ratio determination requires verification of senior lien amounts and priority"
+    ],
+    "citations": [
+      "Interagency real estate lending standards: 12 CFR Part 34 Subpart D (OCC), 12 CFR Part 208.51 (FRB), 12 CFR Part 365 (FDIC), 12 CFR 560.100-101 (OTS)",
+      "National banks must assess borrower repayment capacity per 12 CFR 34.3(b)",
+      "Lenders must document source of repayment and assess timely debt repayment ability per 12 CFR 30 Appendix A",
+      "Maximum interest rate must be stated in consumer credit contract per 12 CFR 226.30(b)",
+      "12 CFR 34 subpart C applies to OCC-regulated institutions",
+      "12 CFR 208 subpart E and 12 CFR 225 subpart G apply to FRB",
+      "12 CFR 323 applies to FDIC-regulated institutions",
+      "12 CFR 722 applies to NCUA-regulated institutions",
+      "Regulation Z citations: 12 CFR 226.5b(f)(3)(vi)(A) through (F)"
+    ],
+    "timeframes": [
+      "Unused HELOC commitment with one year+ maturity may have zero percent conversion factor"
+    ],
+    "key_terms": [
+      "Guidance issued by OCC, Federal Reserve, FDIC, OTS, and NCUA for home equity lending risk management",
+      "Home equity lending includes open-end HELOCs and closed-end HELs",
+      "Risk factors include interest-only features with no principal amortization for protracted periods",
+      "Guidance issued 5/16/2005 addresses marketing, underwriting, collateral valuation, account management, and servicing",
+      "High-risk products include high-LTV, low/no doc, interest-only, and third-party generated loans",
+      "Management must review and approve new products, changes, and marketing initiatives for compliance",
+      "Applicable laws: Federal Trade Commission Act, ECOA, TILA, HOEPA, Fair Housing Act, RESPA, HMDA",
+      "Home equity loan underwriting must evaluate borrower's capacity to service debt adequately",
+      "HELOC underwriting must assess borrower's ability to amortize fully drawn line over loan term",
+      "HOEPA covers high-rate or high-closing-cost home equity loans subject to TILA rules",
+      "Assignee liability applies to institutions purchasing HOEPA loans without reasonable HOEPA determination",
+      "Institutions must comply with agencies' appraisal regulations and Interagency Appraisal and Evaluation Guidelines",
+      "Higher risk transactions require more thorough valuations than lower risk transactions",
+      "Institutions must validate AVM models on a periodic basis to mitigate valuation uncertainty",
+      "AVM validation includes back-testing representative sample valuations against actual market sales data"
+    ]
+  },
+  "managing-risks-associated-home-equity-lending-20d86b.md": {
+    "topics": [],
+    "thresholds": [
+      "HELOCs totaled $34 billion at end of 2004, approximately 8 percent of loans outstanding",
+      "Regulation Z permits refusing additional credit or reducing HELOC limits under certain circumstances"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Home equity lines of credit funded by federally insured credit unions increased 29 percent for year ended December 31, 2004"
+    ],
+    "key_terms": [
+      "Guidance issued jointly by NCUA, OCC, FRB, FDIC, and OTS for home equity lending risk management",
+      "Annual HELOC account reviews required to assess line continuation based on borrower financial condition",
+      "Portfolio management should analyze by: product type, credit risk score, LTV, DTI, property type, geography, lien position"
+    ]
+  },
+  "maturity-limit-member-business-loans-0de7ba.md": {
+    "topics": [
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "Member business loans subject to 12-year maturity limit per 12 U.S.C. \u00a71757(5)",
+      "Long-term residential mortgages have 40-year maturity limit per 12 C.F.R. \u00a7701.21(g)",
+      "Certain residential loans have 20-year maturity limit per 12 C.F.R. \u00a7701.21(f)",
+      "Lines of credit have no maturity limit per 12 C.F.R. \u00a7701.21(c)(4)",
+      "Member business loan exemption: loans under $50,000 secured by 1-4 family primary residence",
+      "Member business loan maturity limit: 12 years per 12 C.F.R. \u00a7723.1(a)",
+      "12-year maturity applies to loan remainder even if portion sold, leaving $50,000 or less",
+      "Farm Service Agency guaranteed agricultural loans may exceed 12-year maturity limit",
+      "Unguaranteed loan portion exceeding $50,000 subject to member business loan limitations"
+    ],
+    "citations": [
+      "12 U.S.C. \u00a71757(5)(A)(iii): Federally guaranteed loans may exceed 12-year maturity",
+      "12 C.F.R. \u00a7723.1(b)(4): Federal agency guaranteed/insured loans exempt from member business loan definition"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Loan purpose is determining factor for member business loan classification",
+      "Agricultural-residential loans classified as business loans if made for business purpose"
+    ]
+  },
+  "measurement-htm-d096fb.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "methods-htm-8f2867.md": {
+    "topics": [],
+    "thresholds": [
+      "Duration analysis measures average price change for \u00b11% interest rate change"
+    ],
+    "citations": [],
+    "timeframes": [
+      "NII Simulation measures earnings changes over 12 to 36 months from interest rate changes"
+    ],
+    "key_terms": [
+      "Credit unions must employ measurement methods capturing all material balance sheet items"
+    ]
+  },
+  "ncua-board-briefed-emerging-cybersecurity-threats-pca-relief-measures-4d0a55.md": {
+    "topics": [
+      "PCA"
+    ],
+    "thresholds": [
+      "Low-income credit unions eligible for up to $7,000 in Community Development Revolving Loan Fund grants"
+    ],
+    "citations": [],
+    "timeframes": [
+      "60-day public comment period for interim final rule"
+    ],
+    "key_terms": [
+      "Grant application period: May 3 through June 26",
+      "Interim final rule temporarily modifies prompt corrective action regulations during COVID-19 pandemic",
+      "Interim final rule reduces earnings retention requirement for adequately capitalized federally insured credit unions",
+      "Interim rule announced April 16, 2021 by NCUA Board notation vote",
+      "Temporary measures remain in place until March 31, 2022",
+      "Interim final rule effective upon Federal Register publication"
+    ]
+  },
+  "ncua-board-modernizes-member-business-lending-rule-provide-flexibility-a7d246.md": {
+    "topics": [
+      "Commercial_Lending"
+    ],
+    "thresholds": [
+      "Share Insurance Fund net income: $61.3 million for 2015",
+      "Rule transitions from prescriptive limits to principles-based regulation for credit unions",
+      "Credit unions with assets under $250 million exempted from certain member-business lending requirements",
+      "Member-business lending portfolio grew from $4 billion in 2000 to $56 billion total",
+      "One-time staff training cost: $960,000 in 2016",
+      "Share Insurance Fund equity ratio: 1.26 percent at end of 2015",
+      "Insured share base: $961.3 billion, 6.5 percent increase from prior year",
+      "Share Insurance Fund net position: $12.2 billion at end of 2015",
+      "Share Insurance Fund insures member accounts up to $250,000",
+      "Share Insurance Fund reserve decreased $13.4 million, or 7.5 percent, during 2015",
+      "Total failure losses in 2015 were $14.8 million, down 63.4 percent from 2014"
+    ],
+    "citations": [
+      "NCUA Board approved final rule modernizing member-business lending under Part 723"
+    ],
+    "timeframes": [
+      "Personal guarantee requirement removal effective 60 days after Federal Register publication"
+    ],
+    "key_terms": [
+      "Final rule eliminates current member-business loan waiver process",
+      "Non-member loan participations do not count against statutory member-business lending cap",
+      "Member-business lending rule effective January 1, 2017",
+      "CAMEL codes 3, 4, 5 assets decreased 52.2 percent since September 2010 peak",
+      "CAMEL codes 4 and 5 credit unions fell 20.3 percent to 220 at end 2015",
+      "Share Insurance Fund received unmodified audit opinion with no reportable conditions for 2015",
+      "NCUA did not assess Share Insurance Fund premium in 2015",
+      "Proposed Share Insurance Fund premium range for 2016: zero to six basis points"
+    ]
+  },
+  "ncua-board-proposes-complex-credit-union-leverage-ratio-b3f19d.md": {
+    "topics": [
+      "Capital",
+      "PCA"
+    ],
+    "thresholds": [
+      "Complex credit unions defined as those with total assets greater than $500 million",
+      "CCULR minimum net worth ratio: 9 percent effective January 1, 2022",
+      "CCULR minimum net worth ratio increases to 10 percent by January 1, 2024"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Comments on proposed rule due 60 days after Federal Register publication",
+      "Comments on RFI must be received no later than 60 days after Federal Register publication"
+    ],
+    "key_terms": [
+      "Community Bank Leverage Ratio went into effect January 2020",
+      "NCUA updates risk-based capital rule for complex credit unions"
+    ]
+  },
+  "ncua-board-proposes-increasing-threshold-ones-supervision-d5d4e3.md": {
+    "topics": [
+      "Capital",
+      "HMDA",
+      "PCA"
+    ],
+    "thresholds": [
+      "ONES supervision threshold: $10 billion in assets for federally insured credit unions",
+      "Share Insurance Fund equity ratio: 1.26 percent as of fourth quarter 2021",
+      "Credit unions with more than $15 billion in total assets supervised by ONES",
+      "Credit unions between $10 billion and $15 billion assets supervised by Regional Office",
+      "Share Insurance Fund equity ratio stands at 1.26 percent",
+      "ONES began operations in 2013",
+      "Share Insurance Fund equity ratio: 1.26% as of Dec. 31, 2021",
+      "Board-approved normal operating level: 1.33% equity ratio",
+      "Insured share base: $1.6 trillion as of Dec. 31, 2021",
+      "Seven credit union failures in 2021 cost $5.6 million",
+      "Rule modifies net worth restoration plan documentation requirements for undercapitalized credit unions"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Comments on proposed rulemaking due within 60 days of Federal Register publication",
+      "Comment period: 60 days following Federal Register publication"
+    ],
+    "key_terms": [
+      "Interim final rule extends temporary prompt corrective action regulation changes",
+      "CAMEL codes 4 and 5 credit unions: 129 in Q4 2021",
+      "Temporary modifications in effect until March 31, 2023",
+      "Rule extends earnings retention requirement waiver for adequately capitalized credit unions"
+    ]
+  },
+  "ncua-chairman-todd-m-harper-remarks-credit-union-leadership-convention-d38254.md": {
+    "topics": [
+      "Cybersecurity"
+    ],
+    "thresholds": [
+      "$2.2 trillion in assets at federally insured credit unions exposed to vendor risks",
+      "426 credit unions hold $1 billion or more in assets",
+      "22 credit unions hold more than $10 billion in assets",
+      "Federally insured credit unions held $2.2 trillion in assets at Q1 2023"
+    ],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "NCUA implemented new Information Security Examination procedures for credit unions",
+      "NCUA Community Development Revolving Loan Fund provided 2023 grants for cybersecurity",
+      "Cyber Incident Notification Rule grant recipients announced in September",
+      "Cyber Incident Notification Rule effective in September",
+      "NCUA lacks statutory authority to examine or supervise CUSOs and third-party service providers",
+      "NCUA Share Insurance Fund reserves threatened by vendor-related credit union failures",
+      "137 million members in federally insured credit unions as of Q1 2023"
+    ]
+  },
+  "ncua-chairman-todd-m-harper-statement-asset-and-supervision-thresholds-final-rul-e71ed4.md": {
+    "topics": [],
+    "thresholds": [
+      "Asset threshold adjustment for ONES supervision of covered consumer credit unions finalized July 2022",
+      "Federally insured credit unions under $10 billion assets grew 14% average during first COVID-19 pandemic year",
+      "Largest credit unions experienced over 34% balance sheet growth during pandemic onset period",
+      "Credit union risk assessment: $10 billion to $15 billion in assets threshold",
+      "ONES supervision applies to credit unions with $15 billion or more in assets",
+      "ONES operations began in 2013",
+      "Asset threshold comparison: $10 billion or more assets in 2013 versus current $15 billion threshold"
+    ],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "ncua-chairman-todd-m-harper-statement-proposed-rule-asset-thresholds-ones-superv-9f248f.md": {
+    "topics": [],
+    "thresholds": [
+      "Credit unions with assets below $10 billion grew approximately 14 percent average in 2020",
+      "One credit union with assets below $10 billion grew more than 34 percent in 2020",
+      "Proposed rule adjusts asset thresholds for ONES supervision assignment",
+      "Asset threshold for ONES supervision adjusted from $10 billion to $15 billion",
+      "Credit unions with $10-$15 billion assets remain under regional office supervision",
+      "Credit unions under $15 billion currently supervised by ONES continue with ONES",
+      "Credit unions with $10 billion or more in assets subject to capital planning requirements",
+      "Risk assessment applies to credit unions between $10 billion and $15 billion in assets"
+    ],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "Same credit unions saw average asset increase of 9 percent in 2019",
+      "Systemically critical credit unions pose significant risk to Share Insurance Fund due to size and complexity"
+    ]
+  },
+  "ncua-vice-chairman-kyle-s-hauptman-statement-interim-final-rule-part-702-prompt--d3f23b.md": {
+    "topics": [
+      "PCA"
+    ],
+    "thresholds": [],
+    "citations": [
+      "Part 702 Prompt Corrective Action interim final rule issued February 2022"
+    ],
+    "timeframes": [
+      "Share growth exceeded 14 percent in year ending September 30, 2021"
+    ],
+    "key_terms": [
+      "Temporary PCA policy waives earnings retention requirement for adequately capitalized credit unions",
+      "Temporary policy scheduled to expire March 2023"
+    ]
+  },
+  "ncua_faqs.md": {
+    "topics": [
+      "CTR"
+    ],
+    "thresholds": [
+      "Distribution estimates under $10,000 not included in NCUA letters"
+    ],
+    "citations": [
+      "Merger forms for federally insured credit unions referenced in 12 C.F.R \u00a7 708b.304",
+      "Merger package requirements specified in 12 C.F.R. \u00a7\u00a7 708b.103 and 708b.104"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Field-of-membership requirements apply to mergers unless NCUA authorizes emergency merger",
+      "Premiums and assessments shared proportionally by federally insured credit unions based on insured shares",
+      "Federal Credit Union Act requires premiums/assessments shared proportionally by all federally insured credit unions based on insured shares",
+      "Stabilization Fund life extended to June 2021 per September 24, 2010 NCUA-Treasury agreement",
+      "NCUA Board determines annual assessments until Stabilization Fund expires June 2021",
+      "NCUA Board approved Corporate System Resolution strategy on September 24, 2010",
+      "Program preserved payment system activity for 92 million credit union members",
+      "US Central MCA projected return: 4.9 percent of original balance",
+      "US Central PIC projected return: 35.9 to 52.0 percent of original balance",
+      "Constitution MCA projected return: 16.9 to 21.1 percent of original balance",
+      "Members United Share Dividend projected return: 0.49 to 0.61 percent",
+      "Southwest Share Dividend projected return: 0.39 to 0.49 percent"
+    ]
+  },
+  "ncua_first_loan_fund_investment_pilot_requirements_and_conditions.md": {
+    "topics": [
+      "Capital"
+    ],
+    "thresholds": [
+      "FCU aggregate investment limit: 50 percent of net worth across all pilot program funds",
+      "FCU discrete fund exposure limit: 15 percent of net worth per fund",
+      "ALM First minimum regulatory assets: $10 billion under management at initial funding",
+      "First two Funds: six-month limit from Initial Funding date",
+      "Subsequent Funds: three-month limit from Initial Funding date",
+      "Permissible Consumer Loans: stated maturities of 10 years or less",
+      "Total outstanding issuances across all Funds may not exceed $10 billion"
+    ],
+    "citations": [
+      "ALM First approved for investment pilot program under 12 CFR \u00a7 703.19(c)",
+      "FCU must be Well Capitalized per NCUA part 702 regulations",
+      "NCUA regulation \u00a7 703.19(c) governs ALM First modification applications"
+    ],
+    "timeframes": [
+      "Overnight Investments: maturity on next business day, cash, non-term deposits permissible under Federal Credit Union Act",
+      "Fund purchase timeframe: 6 months for first two discrete funds from initial funding",
+      "Fund purchase timeframe: 3 months for subsequent discrete funds from initial funding",
+      "Monthly updates required for each discrete fund with asset summaries and loan details",
+      "ALM First must report Fund documentation within 30 days of Initial Funding",
+      "ALM First must report investor lists within 30 days of Initial Funding",
+      "Investment pilot program terminates in five years from first issuance or seven years from NCUA Board approval, whichever is sooner"
+    ],
+    "key_terms": [
+      "NCUA Board approved pilot program on December 17, 2024",
+      "Program applies to ALM First, all Funds, and all Investing FCUs",
+      "Clean-up Call Provision: Fund may redeem when outstanding balance falls below predetermined percentage of original balance",
+      "Permissible Consumer Loans must meet Federal Credit Union Act and NCUA regulations eligibility at Fund creation",
+      "Loans grandfathered if NCUA regulations amended post-Fund establishment making loan type no longer permissible",
+      "Clean-up Call Provision: no greater than five percent of original Fund balance",
+      "Interest rate cap: permissible FCU loan interest rate ceiling at loan origination date",
+      "Offering documents must include loan characteristics: types, credit scores, debt-to-income, loan-to-values",
+      "NCUA disclaimer required on offering document cover page in prominent type",
+      "Fund investments must comply with all applicable federal and state securities laws",
+      "Federally insured credit unions must conduct prepurchase due diligence before fund investments",
+      "Sensitivity analysis required for interest rate changes: +/- 100, 200, 300 basis points",
+      "NCUA may take administrative actions for inadequate prepurchase due diligence",
+      "Maximum 30 federally insured credit unions may participate in pilot program",
+      "NCUA Board may terminate pilot program at any time"
+    ]
+  },
+  "ncuas-2026-supervisory-priorities-061787.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [
+      "NCUA conducts defined scope exams for federal credit unions with assets of $50 million or less",
+      "NCUA implements risk-focused exam procedures for all credit unions with assets exceeding $50 million",
+      "Defined scope exams apply to federal credit unions with assets of $50 million or less",
+      "Risk-focused exam procedures apply to all credit unions exceeding $50 million in assets"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Overall delinquency rate and rolling 12-month loss rate at highest point in over a decade"
+    ],
+    "key_terms": [
+      "Letter 26-CU-01 issued January 2026 outlines NCUA's 2026 supervisory priorities",
+      "NCUA will review examination procedures in 2026 for fraud prevention alignment",
+      "Bank Secrecy Act (BSA) compliance landscape continues evolving throughout 2026"
+    ]
+  },
+  "ncuas-information-security-examination-a-20a51f.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "NCUA implemented Information Security Examination (ISE) procedures in 2023"
+    ]
+  },
+  "ncuas-regulations-and-guidance-9610fc.md": {
+    "topics": [],
+    "thresholds": [],
+    "citations": [
+      "12 CFR Section 748.0: Security program required within 90 days of insurance effective date",
+      "Program must prevent destruction of vital records as defined in 12 CFR Part 749",
+      "NCUA 12 CFR Part 748: Oversee Service Provider Arrangements",
+      "NCUA 12 CFR Part 749: Records Preservation Program"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Security program must protect member records from unauthorized access causing substantial harm",
+      "Credit unions must conduct due diligence before entering third-party arrangements",
+      "Service providers must implement measures meeting guideline objectives by contract",
+      "All credit unions require written program for records safeguarding and reconstruction"
+    ]
+  },
+  "net-worth-ratio-plan-and-prompt-corrective-action-resources-f6158a.md": {
+    "topics": [
+      "Capital",
+      "PCA"
+    ],
+    "thresholds": [
+      "Undercapitalized or less credit unions subject to 12 CFR \u00a7702.107(a)(2)",
+      "NCUA-approved net worth restoration plan required for undercapitalized credit unions",
+      "Section 702.107 governs net worth restoration plans for credit unions"
+    ],
+    "citations": [
+      "Part 702 applies to natural person federally insured credit unions only",
+      "Corporate credit unions regulated under Part 704 of NCUA Rules"
+    ],
+    "timeframes": [],
+    "key_terms": []
+  },
+  "nev-htm-2d62fe.md": {
+    "topics": [
+      "IRR"
+    ],
+    "thresholds": [
+      "Hypothetical fixed-rate security face value: $1 million",
+      "Fair value decrease at 6.5 percent discount rate: approximately $74,000",
+      "NEV risk limits should address rate shocks of \u00b1100, \u00b1200, and \u00b1300 basis points",
+      "Management must report NEV comparison to policy risk limits to board at least quarterly",
+      "When policy risk limits exceeded, management must report IRR reduction status monthly to board and ALCO",
+      "NEV ratio equals NEV divided by economic value of total assets"
+    ],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "Initial coupon rate: 3.5 percent",
+      "Stress scenario rate: 6.5 percent (300 basis points higher)"
+    ]
+  },
+  "nwrp-useful-tips-901756.md": {
+    "topics": [
+      "Capital",
+      "PCA"
+    ],
+    "thresholds": [
+      "NWRP requires pro forma financial statements covering minimum two years per \u00a7702.111",
+      "NCUA regulation \u00a7702.111 governs Net Worth Restoration Plan (NWRP) contents and requirements",
+      "Pro forma financial statements must cover minimum two years, including off-balance sheet items"
+    ],
+    "citations": [
+      "NWRP must be filed within 45 calendar days of PCA classification per \u00a7702.107(a)(2)",
+      "Credit unions with capital classification less than adequately capitalized subject to Part 702 PCA",
+      "Credit union must project net worth increases each quarter per \u00a7702.106(a) or \u00a7702.106(b)"
+    ],
+    "timeframes": [
+      "NWRP must include quarterly steps to reach adequately capitalized status within four quarters",
+      "NWRP must include quarterly timetable to achieve adequately capitalized status within four consecutive calendar quarters"
+    ],
+    "key_terms": []
+  },
+  "order-granting-exemption-customer-identification-program-cb7808.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [
+      "Original exemption limited to commercial customers only",
+      "CIP must obtain customer name, date of birth, address, and identification number minimum",
+      "Order dated September 27, 2018 defined commercial customers as corporations, partnerships, sole proprietorships, trusts"
+    ],
+    "citations": [
+      "Exemption implements section 326 of USA PATRIOT Act, 31 U.S.C. \u00a7 5318(l)",
+      "CIP exemption authority: 31 C.F.R. \u00a7 1020.220(b) and 31 U.S.C. \u00a7 5318(l)(5)",
+      "Exemption applies to 31 U.S.C. \u00a7 5318(l) and section 326 USA PATRIOT Act",
+      "31 C.F.R. \u00a7 1020.220(b) authorizes FBA exemptions from CIP rules",
+      "Exemption authority: 31 C.F.R. \u00a7 1020.220(b) implementing 31 U.S.C. \u00a7 5318(l)(5)",
+      "CIP rules promulgated pursuant to USA PATRIOT Act Title III, Section 326",
+      "Exemption from CIP rules implementing section 326 of USA PATRIOT Act, 31 U.S.C. \u00a7 5318(l)",
+      "CIP rules cited: 31 C.F.R. \u00a7 1020.220, 12 C.F.R. \u00a7\u00a7 21.21(c)(2), 208.63(b)(2), 211.24(j)(2), 326.8(b)(2), 748.2(b)(2)",
+      "Applies to banks defined by 31 C.F.R. \u00a7 1010.100(d) and their subsidiaries",
+      "ORDER applies to banks defined by 31 C.F.R. \u00a7 1010.100(d) and their subsidiaries",
+      "12 C.F.R. \u00a7\u00a7 5.34(e)(3) and 5.38(e)(3) govern operating subsidiaries of national banks",
+      "31 U.S.C. \u00a7 5311 sets forth the purposes of the BSA",
+      "31 C.F.R. \u00a7 1020.220(a)(2) governs customer identification program requirements",
+      "Bank Secrecy Act authority: 31 U.S.C. \u00a7 5311",
+      "CDD requirements codified: 31 U.S.C. \u00a7 5318(l)"
+    ],
+    "timeframes": [
+      "Premium finance loans typically submitted, approved, and funded within same business day"
+    ],
+    "key_terms": [
+      "Exemption applies to loans for property and casualty insurance policy purchases",
+      "Order issued October 5, 2020",
+      "Exemption covers banks and subsidiaries under Federal Banking Agencies jurisdiction",
+      "Exemption issued October 5, 2020 by OCC, Federal Reserve, FDIC, NCUA",
+      "Exemption covers banks and subsidiaries subject to Federal Banking Agencies jurisdiction",
+      "CIP exemption granted September 27, 2018 for insurance premium finance lending",
+      "Exemption applies to banks subject to FBAs' jurisdiction and their subsidiaries",
+      "Secretary of Treasury authority delegated to FinCEN for CIP exemptions",
+      "Exemptions must be consistent with Bank Secrecy Act purposes",
+      "U.S. persons require taxpayer identification number as identification",
+      "Non-U.S. persons require passport number, alien ID, or government-issued document with photograph",
+      "CIP rules apply to insurance premium finance lending activities",
+      "CIP requirements mandate collection of taxpayer identification numbers and borrower date of birth",
+      "Exemption applies to all customers of premium finance lending",
+      "FinCEN exempted premium finance lenders from beneficial owner identification requirements"
+    ]
+  },
+  "people-htm-ec878b.md": {
+    "topics": [],
+    "thresholds": [
+      "Dual controls and separation of duties provisions required",
+      "User limits and transactional dollar thresholds must be established"
+    ],
+    "citations": [],
+    "timeframes": [],
+    "key_terms": [
+      "Enhanced due diligence required on high-risk members and activity",
+      "Daily reconciliation of all EPS-related accounts required",
+      "Management must track volume and amount of transactions by EPS type"
+    ]
+  },
+  "policyprocedurelimits-htm-228e93.md": {
+    "topics": [],
+    "thresholds": [
+      "CFP required for FICUs with $50 million or more in assets per \u00a7 741.12(b)",
+      "Contingent federal liquidity source required for FICUs with $250 million or more assets per \u00a7 741.12(c)",
+      "\u00a7741.12: FICUs under $50 million must maintain basic written liquidity policy",
+      "\u00a7741.12: FICUs $50 million or more must establish CFP for liquidity shortfalls",
+      "\u00a7741.12: FICUs $250 million or more must access federal liquidity source",
+      "\u00a7702.304(b)(3) and (b)(4): Credit unions over $10 billion must assess liquidity in strategic planning",
+      "NCUA regulation \u00a7 741.12(b) requires CFP for credit unions with $50 million or more in assets",
+      "CFP must be commensurate with credit union size, complexity, risk profile, and operations scope",
+      "Credit unions with assets of $250 million or more must include contingent federal funding sources"
+    ],
+    "citations": [
+      "Liquidity Policy required for all FICUs per NCUA \u00a7 741.12(a)",
+      "Investment policy required for all FCUs per NCUA \u00a7 703.3(d)",
+      "NCUA Regulation \u00a7741.12 governs liquidity and contingency funding plans",
+      "NCUA regulation \u00a7 741.12 requires contingent funding plans for credit unions",
+      "NCUA regulation \u00a7 741.12(d)(6) requires credit unions to define CFP testing and update frequency"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Liquidity policy tailored to institution size, complexity, and risk profile",
+      "Policy updated when size, risk profile, or cash flows change",
+      "Liquidity policy requires periodic review annually or when significant organizational changes occur"
+    ]
+  },
+  "prompt-corrective-action-faqs-482f74.md": {
+    "topics": [
+      "Capital",
+      "PCA"
+    ],
+    "thresholds": [
+      "Capital classifications determined by PCA net worth ratio reported quarterly on NCUA Call Report",
+      "New credit union: operating less than 10 years with total assets not more than $10 million",
+      "Net worth ratio: expressed as percentage rounded to two decimal places per \u00a7 702.2",
+      "Net worth to total assets ratio ranges from 6.75% to 7.39% across quarters",
+      "Optional total assets election increases net worth ratio by 0.06% to 0.11% quarterly",
+      "Stated total assets range from $694.5 million to $713.0 million across five quarters",
+      "Complex credit union defined: assets greater than $500 million at quarter-end",
+      "Complex credit unions use net worth ratio and risk-based capital ratio or CCULR",
+      "Well Capitalized: net worth ratio 7% or greater, risk-based capital ratio 10% or greater",
+      "Adequately Capitalized: net worth ratio 6% or greater, risk-based capital ratio 8% or greater",
+      "Undercapitalized: net worth ratio 4% to 5.99%, risk-based capital ratio less than 8%",
+      "Significantly Undercapitalized: net worth ratio 2% to 3.99%",
+      "Critically Undercapitalized: net worth ratio less than 2%",
+      "Complex Credit Union Leverage Ratio threshold for well capitalized: 9% or greater",
+      "CCULR framework threshold: 9.0 percent minimum per \u00a7 702.104(d)(7)"
+    ],
+    "citations": [
+      "PCA framework established in 12 CFR Part 702, Subparts A and B",
+      "Adequately capitalized or lower classification triggers \u00a7 702.106 earnings retention requirements",
+      "Undercapitalized or lower classification triggers mandatory supervisory actions under \u00a7 702.107-\u00a7702.109",
+      "Adequately capitalized or lower: credit unions must follow \u00a7 702.106 earnings retention requirements",
+      "Undercapitalized or lower: credit unions must follow \u00a7 702.107-\u00a7702.109 mandatory supervisory actions",
+      "Complex credit unions may opt into CCULR framework per \u00a7 702.104(d)",
+      "PCA effective date per \u00a7 702.101(c) is last day of calendar month following quarter end",
+      "Earnings retention requirement: 12 CFR 702.106(a)",
+      "RBP requirements governed by \u00a7 702.204(a)(2), (3) and \u00a7 702.206",
+      "NWRP submission governed by \u00a7 702.111",
+      "CCULR calculation follows \u00a7 702.104(d) framework for qualifying complex credit unions"
+    ],
+    "timeframes": [
+      "Total assets measurement: quarter-end, average quarterly, average monthly, or average daily balance",
+      "Net worth classification determined month-end following quarter-end",
+      "ERW decrease requested at least 14 days before next quarter-end",
+      "Effective date for retention requirement: month-end following quarter-end classification change",
+      "Earnings retention waiver must be submitted at least 14 days before quarter-end",
+      "RBP submission required within 30 calendar days of moderately or lower capitalized classification",
+      "RBP due 30 days after net worth classification effective date for new credit unions",
+      "NWRP required within 45 calendar days of capital classification below adequately capitalized",
+      "NWRP due within 45 days of net worth classification effective date",
+      "NWRP must show net worth reaching adequately capitalized within four consecutive quarters"
+    ],
+    "key_terms": [
+      "Capital classification determined at end of each calendar quarter",
+      "CCULR calculated as total net worth divided by total assets",
+      "Call Report cycle determines typical PCA classification effective date",
+      "December 31 Call Report cycle: January 31 classification effective date",
+      "March 31 Call Report cycle: April 30 classification effective date",
+      "June 30 Call Report cycle: July 31 classification effective date",
+      "September 30 Call Report cycle: October 31 classification effective date",
+      "Requirement applies when classified adequately capitalized or lower",
+      "Earnings retention requirement: 0.10 percent quarterly when capital classification below well capitalized",
+      "Effective dates occur on: January 31, April 30, July 31, or October 31",
+      "Earnings retention requirement: 0.10 percent of assets",
+      "Effective dates for classification: January 31, April 30, July 31, October 31",
+      "Classification effective dates: January 31, April 30, July 31, October 31",
+      "December 31 quarter-end: NWRP due by March 16",
+      "March 31 quarter-end: NWRP due by June 14"
+    ]
+  },
+  "quarterly-data-summary-2025-q3-1e021a.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending",
+      "PCA"
+    ],
+    "thresholds": [
+      "Total assets rose $86 billion, or 3.7 percent, to $2.40 trillion over the year",
+      "Total loans outstanding increased $72 billion, or 4.4 percent, to $1.70 trillion over the year",
+      "Net worth ratio: 11.24 percent in Q3 2025, compared with 10.94 percent one year earlier",
+      "Loan to share ratio: 83.7 percent in Q3 2025, down from 84.3 percent in Q3 2024",
+      "Credit union system net worth ratio: 11.24% in Q3 2025, up from 10.94% in Q3 2024",
+      "Net interest margin: 3.38% of average assets in Q3 2025, up from 3.09% in Q3 2024",
+      "449 credit unions opted into Complex Credit Union Leverage Ratio framework with 12.07% average",
+      "287 credit unions reported under Risk-Based Capital framework with 15.41% average ratio",
+      "Total federally insured credit union assets: $2.40 trillion in Q3 2025, up 3.7% year-over-year",
+      "Cash declined $2.1 billion, or 1.1 percent, to $183.7 billion",
+      "Total investments rose $8.5 billion, or 2.2 percent, to $400.7 billion Q3 2025",
+      "Total loans outstanding increased $72.3 billion, or 4.4 percent, to $1.70 trillion",
+      "Investments three to five years maturity increased $13.2 billion, or 17.2 percent",
+      "Residential property loans increased $53.1 billion, or 7.2 percent, to $789.5 billion",
+      "Commercial loans increased $19.6 billion, or 11.6 percent, to $188.0 billion"
+    ],
+    "citations": [
+      "Unrealized gain/loss from fair value changes deleted from interest income section last quarter 2020Q4",
+      "Member business loan balance reported under Part 723, account 400A",
+      "12 CFR Parts 701, 723, and 741 govern member business loans and commercial lending"
+    ],
+    "timeframes": [
+      "Delinquency rate: 95 basis points in Q3 2025, up 4 basis points from one year earlier",
+      "Federally insured credit union delinquency rate: 95 basis points in Q3 2025, up 4 basis points year-over-year",
+      "Credit card delinquency rate: 204 basis points in Q3 2025, down 12 basis points year-over-year",
+      "Commercial loan delinquency rate: 109 basis points in Q3 2025, up 19 basis points year-over-year",
+      "Commercial loan delinquency rate: 109 basis points Q3 2025, up 19 basis points year-over-year",
+      "Investment maturity schedule: investments less than or equal to 1 year category revised for 2022Q1",
+      "ASU 2016-1 effective for nonpublic organizations: fiscal years beginning after December 15, 2018",
+      "Long-term assets include mortgages and investments greater than three years"
+    ],
+    "key_terms": [
+      "4,331 federally insured credit unions with 145.0 million members as of September 30, 2025",
+      "Delinquency rate at federally insured credit unions: 95 basis points in Q3 2025",
+      "Non-commercial real estate loan delinquency rate: 78 basis points in Q3 2025, up 9 basis points",
+      "MDI status updates reflected in future report periods after December 31, 2024",
+      "2023Q3 federally insured credit unions revised from 4,645 to 4,644",
+      "2023Q3 federal credit unions revised from 2,908 to 2,907",
+      "CECL Transition Rule effective August 2, 2021 provides add back through 2026",
+      "acct_as0041 redefined in 2023Q3 to Allowance for credit losses on held-to-maturity debt securities",
+      "Minority depository institution designation column added with 2023Q2 Call Report release",
+      "2022Q1 Call Report changed cash definition for balance sheet assets",
+      "Cash category now represents cash on hand plus cash on deposit",
+      "2022Q1 Call Report: investments redefined to exclude loans to natural person credit unions",
+      "ASC 321 standard required credit unions to present equity securities at fair market value",
+      "ASC 321 effective for credit unions January 2020",
+      "Early adoption of ASC 321 accommodated starting 2019Q1"
+    ]
+  },
+  "reportingrecordkeeping-htm-a16e3b.md": {
+    "topics": [
+      "BSA",
+      "CTR",
+      "SAR"
+    ],
+    "thresholds": [
+      "SAR required for criminal violations with $5,000+ aggregate when suspect identified",
+      "SAR required for criminal violations with $25,000+ aggregate regardless of suspect",
+      "SAR required for transactions $5,000+ involving suspected federal criminal violations per \u00a7 748.1(d)(1)",
+      "CTR filing required when currency transactions exceed $10,000 in one day per \u00a7 1010.311",
+      "Phase 2 Exemptions include payroll customers routinely conducting transactions over $10,000",
+      "Phase 2 Exemptions include payroll customers routinely withdrawing over $10,000 to pay employees",
+      "FinCEN sends \u00a7 314(a) notifications to credit unions at minimum once every two weeks",
+      "\u00a7 314(b) safe harbor requires annual FinCEN registration and adequate security procedures",
+      "FinCEN \u00a7 1010.415 requires identity verification for monetary instruments $3,000 to $10,000",
+      "Funds transfer recordkeeping required for transfers of $3,000 or more in currency per \u00a7 1010.410",
+      "Funds transfer recordkeeping required for transfers of $3,000 or more per \u00a7 1010.410",
+      "CTR filing required when currency in funds transfer exceeds $10,000 per \u00a7 1010.311",
+      "OFAC enforces sanctions against targeted countries, terrorists, narcotics traffickers, WMD proliferation threats"
+    ],
+    "citations": [
+      "SAR filing deadline: 30 days from detection date per NCUA \u00a7 748.1(d)(1)",
+      "NCUA regulation \u00a7 748.2(c)(4) requires staff training on suspicious activity red flags and BSA reporting",
+      "NCUA regulation \u00a7 748.2(c)(4) requires senior management promptly notify board when SAR filed",
+      "NCUA regulation \u00a7 748.1(d)(5) establishes SAR confidentiality requirements",
+      "CTRs must be filed within 15 days of transaction per \u00a7 1010.306(a)(1)",
+      "Examiners verify proper aggregation and 15-day filing compliance per \u00a7 1010.313",
+      "Credit unions must review DOEPs annually per FinCEN regulation \u00a7 1020.315",
+      "FinCEN Regulation \u00a7 1020.315(b) defines exempt persons for CTR reporting",
+      "\u00a7 314(a) of USA PATRIOT Act requires credit unions to search records for identified subjects",
+      "FinCEN regulation \u00a7 1010.520 governs information sharing between government agencies and financial institutions",
+      "\u00a7 1010.520(b)(3)(i): Query records for accounts maintained by subject during preceding 12 months",
+      "\u00a7 1010.520(b)(3)(i): Query records for transactions conducted within last 6 months",
+      "\u00a7 1010.520(b)(3)(ii): Credit unions must respond within two weeks from posting date",
+      "Credit unions cannot disclose \u00a7 314(a) requests to persons other than FinCEN, NCUA, law enforcement",
+      "Section 314(a) requests received from FinCEN on bi-weekly basis"
+    ],
+    "timeframes": [
+      "SAR filing extended to 60 days if no suspect identified",
+      "Credit unions must complete reviews within 14 days and report matches to FinCEN",
+      "Credit unions must perform retroactive searches if requests missed during previous 12 months",
+      "NCUA policy requires CCV completion in Issue Details Form within MERIT for BSA violations"
+    ],
+    "key_terms": [
+      "DOEP does not exempt credit unions from filing SAR for suspicious activity",
+      "Monetary instrument sales records must include purchaser name, purchase date, instrument type",
+      "BSA violations categorized as significant or non-significant"
+    ]
+  },
+  "risk-based-capital-faqs-df993f.md": {
+    "topics": [
+      "Capital",
+      "PCA"
+    ],
+    "thresholds": [
+      "Complex credit union threshold: total assets greater than $500 million",
+      "Complex credit unions subject to Net Worth Ratio and Risk-Based Capital ratio requirements",
+      "Risk-based net worth ratio measurement removed effective January 1, 2022",
+      "Well Capitalized: Net Worth Ratio 7% or greater, RBC Ratio 10% or greater, CCULR 9% or greater",
+      "Adequately Capitalized: Net Worth Ratio 6% or greater, RBC Ratio 8% or greater",
+      "Undercapitalized: Net Worth Ratio 4% to 5.99%, RBC Ratio less than 8%",
+      "Significantly Undercapitalized: Net Worth Ratio 2% to 3.99%",
+      "Critically Undercapitalized: Net Worth Ratio less than 2%",
+      "Revised Capital Adequacy Standards remove RBNW ratio, incorporate RBC and CCULR",
+      "MBL cap: 1.75 times actual net worth or 1.75 times minimum well-capitalized net worth",
+      "CCULR framework MBL limit: total assets times 9 percent multiplied by 1.75",
+      "Non-CCULR MBL limit: greater of 7 percent total assets or 10 percent risk-weighted assets times 1.75",
+      "Well-capitalized minimum requirement: 9 percent of assets",
+      "Mortgage servicing assets exceeding 25% of capital elements deducted from RBC numerator",
+      "RBC rule applies to credit unions with assets greater than $500 million"
+    ],
+    "citations": [
+      "PCA actions detailed in NCUA Regulations \u00a7 702.106",
+      "Credit unions must follow 12 CFR 324.41 for asset securitization exposures",
+      "CCULR framework rules defined in \u00a7 702.104(d)(7)(v)",
+      "Subordinated Debt rule effective January 1, 2022, codified in 12 CFR part 702 Subpart D",
+      "Subordinated Debt counts as Regulatory Capital per \u00a7 702.402",
+      "Subordinated Debt calculated per \u00a7 702.407; Grandfathered Secondary Capital per \u00a7 702.414(b)",
+      "NCUA Regulations \u00a7 702.2 defines supervisory merger or combination transactions",
+      "Excluded goodwill reduces numerator deductions in RBC requirements per \u00a7 702.2",
+      "NCUA regulations governed by 12 CFR Part 702",
+      "Prompt Corrective Action for new credit unions: 12 CFR 702.205"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Capital Adequacy Standards effective January 1, 2022",
+      "Updated Capital Adequacy Standards remove regular reserve account requirement",
+      "2021 revisions updated the 2015 RBC rule",
+      "Off-balance sheet items assigned explicit credit conversion factors and risk weights per final rule",
+      "Zero percent risk weight assigned to Bank for International Settlements obligations",
+      "Zero percent risk weight assigned to Bank for International Settlements, European Central Bank, European Commission obligations",
+      "Zero percent risk weight assigned to loans fully guaranteed under SBA Paycheck Protection Program",
+      "Goodwill exclusion sunset date of 2029 removed for excluded goodwill and intangible assets",
+      "Derivatives definition updated to reference Commodity Futures Trading Commission regulation",
+      "Consumer loan definition amended to explicitly include consumer leases",
+      "RBC rule effective January 1, 2022",
+      "First RBC measurement period: March 31, 2022 Call Report",
+      "First RBC measurement period effective March 31, 2022 Call Report",
+      "Complex credit unions opting into CCULR framework require written capital strategy",
+      "Grace period allows two quarters to use CCULR after failing qualifying criteria"
+    ]
+  },
+  "risk-based-capital-rule-become-effective-2020-asset-threshold-raised-022f9b.md": {
+    "topics": [
+      "Capital",
+      "PCA"
+    ],
+    "thresholds": [
+      "Complex credit union asset threshold raised from $100 million to $500 million"
+    ],
+    "citations": [],
+    "timeframes": [
+      "Bylaw comment period: 60 days from Federal Register publication"
+    ],
+    "key_terms": [
+      "Risk-based capital rule effective date: January 1, 2020",
+      "Rule applies to federally insured credit unions subject to NCUA risk-based capital requirements",
+      "531 complex credit unions subject to rule upon effectiveness",
+      "More than 98 percent of complex credit unions will be well-capitalized"
+    ]
+  },
+  "riskmanagement-htm-949bc6.md": {
+    "topics": [
+      "BSA"
+    ],
+    "thresholds": [],
+    "citations": [
+      "NCUA regulation \u00a7 748.2(c)(3) requires FICUs to designate AML/CFT officer",
+      "NCUA regulation \u00a7 748.2(c)(3) requires board to designate qualified AML/CFT officer",
+      "NCUA regulation \u00a7 748.2(c)(4) requires BSA training for appropriate personnel",
+      "NCUA regulation \u00a7 748.2(c)(4) requires BSA training for board of directors",
+      "NCUA regulation \u00a7 748.2(c)(4) requires BSA training for senior management",
+      "NCUA regulation \u00a7 748.2(c)(4) requires BSA training for all relevant personnel",
+      "NCUA regulation \u00a7 748.2(b) requires FICUs to have written, board-approved AML/CFT program"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Credit union AML/CFT program must be reflected in credit union's minutes"
+    ]
+  },
+  "section-702-107-eb8a44.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending",
+      "PCA"
+    ],
+    "thresholds": [
+      "12 CFR 702.107 governs National Credit Union Administration regulations",
+      "Undercapitalized credit unions with net worth ratio below 5% must submit net worth restoration plan per \u00a7 702.111",
+      "Credit unions failing to timely submit or materially implement restoration plan classified significantly undercapitalized per \u00a7 702.102(a)(4)(i)",
+      "Net worth ratio threshold for second tier discretionary actions: less than 5%",
+      "Credit union must implement NCUA Board-approved net worth restoration plan",
+      "Undercapitalized credit union: net worth ratio 5% or greater triggers discretionary actions",
+      "Risk-based capital ratio must equal or exceed 8% per \u00a7 702.104",
+      "Net worth restoration plan must be timely implemented per \u00a7 702.111"
+    ],
+    "citations": [
+      "Subpart A updated October 29, 2015 per 80 FR 66706",
+      "12 CFR 702.107 regulation effective January 1, 2022",
+      "\u00a7 702.107 requires undercapitalized credit unions to increase net worth per \u00a7 702.106",
+      "Nomenclature changes to Part 702 published at 84 FR 1606, February 5, 2019",
+      "Credit unions cannot offer rates exceeding prevailing market rates when assets increase under \u00a7702.107(a)(3)(ii)",
+      "Discretionary supervisory actions apply if mandatory actions under \u00a7 702.107(a) not complied with"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Authority derives from 12 U.S.C. 1757(9), 1766(a), 1784(a), 1786(e), 1790d",
+      "Regulation effective February 18, 2000 per 65 FR 8584",
+      "Undercapitalized credit unions cannot increase assets beyond preceding quarter total without NCUA Board approval",
+      "Member business loans cannot increase from preceding quarter-end balance upon undercapitalized classification",
+      "Member business loans defined as loans outstanding plus unused commitments to lend",
+      "Exception to member business loan restrictions available under 12 U.S.C. 1757a(b)",
+      "NCUA Board approval required for acquisitions, branching, new lines of business",
+      "Dividend rates restricted to prevailing rates in relevant market area",
+      "Dismissal of director/senior executive officer not construed as formal removal under 12 U.S.C. 1786(g)"
+    ]
+  },
+  "section-702-108-1842f6.md": {
+    "topics": [
+      "Capital",
+      "Commercial_Lending",
+      "PCA"
+    ],
+    "thresholds": [
+      "12 CFR 702.108 governs National Credit Union Administration regulations",
+      "Net worth restoration plan required pursuant to \u00a7 702.111",
+      "Compensation limited to average rate during four calendar quarters preceding classification"
+    ],
+    "citations": [
+      "Subpart A updated October 29, 2015 per 80 FR 66706",
+      "12 CFR 702.108 regulation effective January 1, 2022",
+      "\u00a7 702.108 applies to significantly undercapitalized credit unions",
+      "Significantly undercapitalized credit unions must increase net worth per \u00a7 702.106",
+      "Asset increase restrictions apply per \u00a7 702.107(a)(3)",
+      "Nomenclature changes to part 702 effective February 5, 2019",
+      "Asset increase restrictions per \u00a7 702.107(a)(3)",
+      "Member business loans restricted per \u00a7 702.107(a)(4)",
+      "NCUA may issue directives under subpart L of part 747",
+      "Acquisitions and branching prohibited per \u00a7 702.107(b)(1)",
+      "Dividend rates restricted per \u00a7 702.107(b)(3)",
+      "Significantly undercapitalized credit unions defined in \u00a7 702.102(b)"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "Authority derived from 12 U.S.C. 1757(9), 1766(a), 1784(a), 1786(e), 1790d",
+      "Regulation effective February 18, 2000 per 65 FR 8584",
+      "Asset growth may be prohibited or reduced for undercapitalized credit unions",
+      "Dismissal not construed as formal administrative action under 12 U.S.C. 1786(g)",
+      "NCUA Board may require approval of qualified senior executive officers",
+      "NCUA may require merger under 12 U.S.C. 1786(h)(1)(F) or 12 U.S.C. 1787(a)(3)(A)(i)",
+      "NCUA Board may place significantly undercapitalized credit unions into conservatorship or liquidation",
+      "Conservatorship/liquidation permitted when credit union has no reasonable prospect of adequate capitalization"
+    ]
+  },
+  "updates-interest-rate-risk-supervisory-f-1e2da7.md": {
+    "topics": [
+      "IRR"
+    ],
+    "thresholds": [
+      "Interest rate risk supervision applies to credit unions over $50 million in assets",
+      "Credit unions with assets greater than $50 million must maintain written IRR policy per \u00a7741.3(b)",
+      "Estimated Net Economic Value Tool applies to credit unions under certain asset threshold",
+      "Low risk: Post-shock NEV above 7%, NEV Sensitivity below 40%",
+      "Moderate risk: Post-shock NEV 4% to 7%, NEV Sensitivity 40% to 65%",
+      "High risk revised: Post-shock NEV below 4%, NEV Sensitivity above 65%",
+      "High risk classification: post-shock NEV below 4% or sensitivity higher than 65%",
+      "Either NEV Test or ENT threshold triggers risk classification",
+      "Credit unions with $500M-$10B assets and high NEV Test risk require expanded examiner review",
+      "Credit unions exceeding $10B in total assets require all IRR Workbook review steps regardless of risk classification",
+      "Analysis must extend back minimum 12 to 24 months to demonstrate balance sheet composition changes",
+      "IRR rule applies to federally insured credit unions with assets greater than $50 million",
+      "ENT generates risk ratings: low, moderate, or high for post-shock NEV ratio and sensitivity",
+      "Credit unions with less than $500 million in assets may use ENT for IRR assessment"
+    ],
+    "citations": [
+      "NCUA updated \u00a7741.3(b) in 2012 requiring IRR management program for large credit unions",
+      "Rule requires written policy and effective IRR management program as part of asset liability management",
+      "Credit unions may appeal material supervisory determinations per Part 746, Subpart A of NCUA regulations",
+      "12 CFR 741.3(b)(5) governs interest rate risk supervisory framework",
+      "Part 703, Subpart B applies to credit union regulations",
+      "Undue risk defined in 12 CFR 741.3(d) as probability of loss exceeding normal",
+      "12 CFR 741.3(b)(5) and Appendix A govern interest rate risk supervisory framework",
+      "12 CFR \u00a7\u00a7 746.101-746.113 establish regulatory requirements for credit unions"
+    ],
+    "timeframes": [],
+    "key_terms": [
+      "NCUA Letter 16-CU-08 effective January 1, 2017 established IRR supervision framework",
+      "NEV Supervisory Test and Estimated NEV Tool measure net economic values for IRR",
+      "NCUA reviewed NEV Test parameters and risk classifications during 2022",
+      "Extreme risk classification eliminated; high risk classification modified",
+      "Document of Resolution presumption based on IRR supervisory risk classification removed",
+      "Examiners granted increased flexibility in assigning IRR supervisory risk ratings",
+      "NCUA finalized derivatives rules in 2014 and revised in 2021 for IRR management",
+      "Letter to Credit Unions 16-CU-08 IRR supervision procedures became effective in 2017",
+      "CAMELS rating system expanded with 'S' component effective April 1, 2022",
+      "Net Economic Value Supervisory Test uses standardized values for non-maturity shares",
+      "IRR examination procedures expanded with additional review steps for credit unions",
+      "Extreme Risk classification eliminated from IRR supervisory framework",
+      "High Risk classification modified in IRR supervisory framework",
+      "Examiner oversight increases until credit union adopts effective IRR program",
+      "Extreme risk classification eliminated from revised NEV test framework"
+    ]
+  }
+}
